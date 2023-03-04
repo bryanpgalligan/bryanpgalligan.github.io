@@ -28,12 +28,6 @@ about:
 
 I am a Jesuit scholastic and fisheries scientist interested in solving complex sustainability problems through the lens of integral ecology. The driving force behind my work is a desire to produce the type of knowledge that will support social and ecological transformation in marine systems. I currently focus on the intersection between marine fisheries ecology and food systems governance, and I enjoy finding ways to connect my research to specific policy processes with concrete outcomes. My areas of interest include nutrition-sensitive fisheries management, functional ecology, the ecosystem impacts of climate change, and ocean governance.
 
-As a Jesuit in formation to be a Catholic priest, I am deeply influenced by the thought of Pope Francis, who writes:
-
-> "We are faced not with two separate crises, one environmental and the other social, but rather with one complex crisis which is both social and environmental. Strategies for a solution demand an integrated approach to combating poverty, restoring dignity to the excluded, and at the same time protecting nature" ([*Laudato si'*](https://www.vatican.va/content/francesco/en/encyclicals/documents/papa-francesco_20150524_enciclica-laudato-si.html), 139)
-
-This is what I aim to do as a professional scientist and amateur ethicist. For more on this aspect of my work, I invite you to explore the integral ecoloy section on my [research](research.qmd) page.
-
 ## Education
 
 **Boston College** | Boston, MA | MDiv in Theology and Ministry | Beginning Aug 2023
@@ -41,9 +35,3 @@ This is what I aim to do as a professional scientist and amateur ethicist. For m
 **Loyola University Chicago** | Chicago, IL | MA in Social Philosophy | Aug 2019 - May 2021
 
 **Fordham University** | Bronx, NY | BS in Biology and Theology | Aug 2011 - May 2015
-
-## Experience
-
-**Jesuit Justice and Ecology Network Africa** | Research and Policy Analyst | Aug 2021 - present
-
-
