@@ -2,12 +2,18 @@ project:
   type: website
 
 website:
-  title: "galligan-sj"
+  title: "Bryan P. Galligan, S.J."
   navbar:
     left:
       - href: index.qmd
         text: Home
-      - about.qmd
+      - href: research.qmd
+        text: Research
+      - href: publications.qmd
+        text: Publications
+      - href: blog.qmd
+        text: Blog
+  twitter-card: true
 
 format:
   html:

@@ -1,0 +1,14 @@
+---
+title: "My Fishy Thoughts"
+listing:
+  type: grid
+  contents: posts
+  sort: "date desc"
+  fields: 
+    - image
+    - title
+    - date
+    - reading-time
+---
+
+Browse below for my latest thoughts on current events, policy perspectives, and publication announcements.
