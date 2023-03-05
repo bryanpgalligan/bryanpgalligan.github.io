@@ -13,7 +13,8 @@ website:
         text: Publications
       - href: blog.qmd
         text: Blog
-  twitter-card: true
+  twitter-card:
+    site: "@galligan_sj"
 
 format:
   html:
