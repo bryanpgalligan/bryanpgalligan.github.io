@@ -6,8 +6,6 @@ date: "9/9/2021"
 image: rethinking_sep2021.jpg
 ---
 
-:::{.column-page}
 ![](rethinking_sep2021.jpg)
-:::
 
 *This post was originally shared on the [JENA Blog](https://www.jenaafrica.org/index.php/2021/09/09/rethinking-ocean-governance-from-fisheries-extractivism-to-blue-justice/).*

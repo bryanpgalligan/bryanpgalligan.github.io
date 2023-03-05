@@ -5,9 +5,7 @@ date: "6/4/2022"
 image: stockholm_jun2022.jpg
 ---
 
-:::{.column-page}
 ![](stockholm_jun2022.jpg)
-:::
 
 In early June 1972, world leaders met in Stockholm, Sweden for the first-ever global conference on the environment and sustainable development. This past week, the UN system returned to Stockholm after 50 years for a global stock-take on the progress made since then, and to give leaders an opportunity to meet and reestablish momentum behind the sustainable development goals after the major setbacks caused by the COVID-19 pandemic. There certainly has been progress made in the last 50 years. The 1972 conference gave birth to the UN Environment Program (UNEP), which was the first UN agency to be based in the Global South and still does important work today, including the production of landmark scientific assessments like [those on climate change](https://www.ipcc.ch/assessment-report/ar6/). The conference also gave heightened prominence to the role of multilateralism in dealing with environmental issues. As then-Swedish Prime Minister Olof Palme pointed out in his [address](http://www.olofpalme.org/wp-content/dokument/720606a_fn_miljo.pdf) to the 1972 conference, “the air we breathe is not the property of any one nation…the big oceans are not divided by national frontiers.” The environment does not see borders; we cannot solve the triple planetary crisis of climate change, biodiversity loss, and pollution as individuals or as individual countries. We have to work together.
 

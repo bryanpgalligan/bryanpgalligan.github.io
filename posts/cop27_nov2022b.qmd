@@ -4,8 +4,7 @@ author: "Bryan P. Galligan, S.J."
 date: "11/4/2022"
 image: cop27_nov2022b.jpg
 ---
-:::{.column-page}
+
 ![](cop27_nov2022b.jpg)
-:::
 
 *This post was originally shared on the [JENA blog](https://www.ej.jesuits.africa/cop27-perspective-the-future-of-food/).*

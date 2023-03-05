@@ -11,4 +11,4 @@ listing:
     - reading-time
 ---
 
-Browse below for my latest on current events, policy perspectives, and publication announcements.
+Browse below for my latest posts on current events, policy perspectives, and publication announcements.
