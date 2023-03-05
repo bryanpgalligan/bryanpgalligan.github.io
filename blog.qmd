@@ -1,5 +1,5 @@
 ---
-title: "My Fishy Thoughts"
+title: "My Fishy Thinking"
 listing:
   type: grid
   contents: posts
@@ -11,4 +11,4 @@ listing:
     - reading-time
 ---
 
-Browse below for my latest thoughts on current events, policy perspectives, and publication announcements.
+Browse below for my latest on current events, policy perspectives, and publication announcements.

@@ -2,17 +2,29 @@
 title: "Research"
 ---
 
-I have broad interests and am always open to new directions. These are the projects I'm currently working on.
+I have broad interests and am always open to taking things in a new direction. These are the projects I'm currently working on.
 
-## Sustainable small-scale fisheries for food security and nutrition
+## Nutrient yields from small-scale fisheries
 
 ![Boats pulled up at a seasonal fishing camp in Lamu, Kenya](data-files/fishingcamplamu.jpg)
 
-Here is some text about SSF because they're super important and I'm doing some things and eventually I'll even write this section. Here is some text about SSF because they're super important and I'm doing some things and eventually I'll even write this section. Here is some text about SSF because they're super important and I'm doing some things and eventually I'll even write this section. Here is some text about SSF because they're super important and I'm doing some things and eventually I'll even write this section. Here is some text about SSF because they're super important and I'm doing some things and eventually I'll even write this section.
+Small-scale fisheries are an important source of food, nutrition, and livelihoods in developing countries, but they are forced to contend with inadequate management and an often declining natural resource base. This project uses catch data and information about the nutritional value of fished species to ask questions about social and ecological trade offs in fishery management. Can we sustainably increase the quantity and quality of food produced by small-scale fisheries? Can we preserve coral reef ecological function without compromising food security?
 
 ## Social justice and human rights in ocean governance
 
+The systems and structures that govern the global ocean are largely designed by and for wealthy nations in the Global North and find support among self-interested elites in other parts of the world. Current models of ocean governance do not benefit small-scale actors, who often have the strongest historical and rights-based claims to marine resources. In this project, I advance criticisms that highlight the negative social and environmental impacts of these harmful governance models and advocate for more just alternatives, such as human rights-based and nutrition-sensitive approaches.
 
 ## Integral ecology in research, policy, and practice
 
+As a Jesuit in formation to be a Catholic priest, I am deeply inspired by the though of Pope Francis, who [writes](https://www.vatican.va/content/francesco/en/encyclicals/documents/papa-francesco_20150524_enciclica-laudato-si.html):
+
+> "We are faced not with two separate crises, one environmental and the other social, but rather with one complex crisis which is both social and environmental. Strategies for a solution demand an integrated approach to combating poverty, restoring dignity to the excluded, and at the same time protecting nature."
+
+Francis believes that these integrated, solution-oriented strategies should take on the contours of what he calls "integral ecology." This project is about figuring out what integral ecology means for research, policy, and practice.
+
 ![](data-files/integralecology.png)
+
+This project asks what kinds of research methods are necessary for putting integral ecology into practice. Are these methods different for academics in different disciplines? And how can natural scientists develop new approaches to environmental problems without sacrificing disciplinary integrity or rigor?
+
+
+
