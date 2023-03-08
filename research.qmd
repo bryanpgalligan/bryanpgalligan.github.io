@@ -14,9 +14,7 @@ Small-scale fisheries (SSF) are an important source of food, nutrition, and inco
 
 Current models of ocean governance often marginalize small-scale actors and fail to deliver on international human rights obligations. In this project, I advance criticisms that highlight the negative social and environmental impacts of these harmful governance models and advocate for more just alternatives, such as human rights-based and nutrition-sensitive approaches. In this context, I work to occupy a space of radical critique while still offering feasible solutions. The outcomes of this project include publications on extractivism in UNCLOS [@galligan2021] and blue justice in Kenya [@galligankinney2021].
 
-:::{.column-margin}
 ![Boats pulled up at a seasonal fishing camp in Lamu, Kenya](data-files/fishingcamplamu.jpg)
-:::
 
 ## Integral ecology in research, policy, and practice
 
