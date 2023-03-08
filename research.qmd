@@ -1,15 +1,10 @@
 ---
-title: "Research"
+title: "Active Projects"
 bibliography: data-files/references.bib
-citation-location: margin
 csl: data-files/apa.csl
 ---
 
 I have broad interests and am always open to taking things in a new direction. These are the projects I'm currently working on.
-
-:::{.column-screen}
-![](data-files/fishingcamplamu.jpg)
-:::
 
 ## Nutrient yields from small-scale fisheries
 
@@ -19,9 +14,13 @@ Small-scale fisheries (SSF) are an important source of food, nutrition, and inco
 
 Current models of ocean governance often marginalize small-scale actors and fail to deliver on international human rights obligations. In this project, I advance criticisms that highlight the negative social and environmental impacts of these harmful governance models and advocate for more just alternatives, such as human rights-based and nutrition-sensitive approaches. In this context, I work to occupy a space of radical critique while still offering feasible solutions. The outcomes of this project include publications on extractivism in UNCLOS [@galligan2021] and blue justice in Kenya [@galligankinney2021].
 
+:::{.column-margin}
+![Boats pulled up at a seasonal fishing camp in Lamu, Kenya](data-files/fishingcamplamu.jpg)
+:::
+
 ## Integral ecology in research, policy, and practice
 
-As a Jesuit in formation to be a Catholic priest, I am deeply inspired by the though of Pope Francis, who [writes](https://www.vatican.va/content/francesco/en/encyclicals/documents/papa-francesco_20150524_enciclica-laudato-si.html):
+As a Jesuit in formation to be a Catholic priest, I am deeply inspired by the thought of Pope Francis, who [writes](https://www.vatican.va/content/francesco/en/encyclicals/documents/papa-francesco_20150524_enciclica-laudato-si.html):
 
 > "We are faced not with two separate crises, one environmental and the other social, but rather with one complex crisis which is both social and environmental. Strategies for a solution demand an integrated approach to combating poverty, restoring dignity to the excluded, and at the same time protecting nature."
 
