@@ -1,5 +1,5 @@
 ---
-title: "Fact Checking Netflix's *Seaspiracy*"
+title: "Fact Checking *Seaspiracy*"
 author: "Bryan P. Galligan, S.J."
 date: "4/9/2021"
 image: 2021-04-09-seaspiracy.jpg
