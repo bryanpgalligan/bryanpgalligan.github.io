@@ -1,14 +1,16 @@
 ---
-title: "Active Projects"
+title: "Active Research Projects"
 bibliography: data-files/references.bib
 csl: data-files/apa.csl
 ---
 
-I have broad interests and am always open to taking things in a new direction. These are the projects I'm currently working on.
+I think of myself as a professional scientist and amateur ethicist putting [integral ecology](https://lsri.campion.ox.ac.uk/node/1628) into practice in coastal and marine systems. My interests are quite broad, and I am always on the lookout for complex problems that could benefit from the tools of fisheries science. These are the projects I'm currently working on.
+
+![](data-files/sayidi.jpg)
 
 ## Nutrient yields from small-scale fisheries
 
-Small-scale fisheries (SSF) are an important source of food, nutrition, and income in developing countries, but they face many challenges and are often neglected in policy and management. In addition to providing important benefits for people, SSF often take place in highly complex social and ecological systems and tend to be understudied relative to industrial fisheries. This project uses catch data and information about the nutritional value of fished species to ask questions about social and ecological trade offs in fishery management. Can we sustainably increase the quantity and quality of food produced by SSF? Can we preserve coral reef ecological function without compromising food security? The first publication from this project shows that managing Kenyan trap fisheries to target fish with larger, more sustainable body sizes is associated with improved nutrient yields [@galligan2022].
+Small-scale fisheries (SSF) are an important source of food, nutrition, and income in developing countries, but they face many challenges and are often neglected in policy and management. In addition to providing important benefits for people, SSF often take place in highly complex social and ecological systems and tend to be understudied relative to industrial fisheries. This project uses catch data and information about the nutritional value of fished species to ask questions about social and ecological trade offs in fishery management. Can we sustainably increase the quantity and quality of food produced by SSF? Where SSF take place in the tropics, can we preserve coral reef ecological function without compromising food security? The first publication from this project shows that managing Kenyan trap fisheries to target fish with larger, more sustainable body sizes is associated with improved nutrient yields [@galligan2022].
 
 ## Social justice and human rights in ocean governance
 
