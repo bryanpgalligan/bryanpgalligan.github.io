@@ -1,11 +1,11 @@
 ---
-title: "COP27 agreement on food"
+title: "COP27 Agreement on Food"
 author: "Bryan P. Galligan, S.J."
 date: "11/21/2022"
-image: cop27_nov2022.jpg
+image: 2022-11-21-cop27.jpg
 ---
 
-![](cop27_nov2022.jpg)
+![](2022-11-21-cop27.jpg)
 
 COP27, the 27th Conference of Parties to the United Nations Framework Convention on Climate Change (UNFCCC), is finally over. In late-night negotiations that ended in the early hours of Sunday, November 20, parties successfully reached a deal to establish a long-awaited and much-discussed mechanism for [loss and damage finance](https://www.bbc.com/news/science-environment-63677466). The agreement, which came after years of concerted effort on the part of civil society and developing countries, was “a real pinch-me moment,” [according to Teresa Anderson](https://actionaid.org/news/2022/actionaid-hails-loss-and-damage-fund-outcome-cop27-victory-people-living-front-lines) of ActionAid. But this high-profile outcome was but one of the many decisions taken at COP27.
 

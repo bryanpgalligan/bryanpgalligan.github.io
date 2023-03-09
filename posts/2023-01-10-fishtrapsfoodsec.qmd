@@ -1,10 +1,10 @@
 ---
-title: "New paper: Fish traps and food security in Kenya"
+title: "Fish Traps and Food Security"
 author: "Bryan P. Galligan, S.J."
 date: "1/10/2023"
-image: fishtrapsfoodsec_jan2023.jpg
+image: 2023-01-10-fishtrapsfoodsec.jpg
 ---
 
-![](fishtrapsfoodsec_jan2023.jpg)
+![](2023-01-10-fishtrapsfoodsec.jpg)
 
 *This post was originally shared on the [JENA blog](https://www.ej.jesuits.africa/new-research-jena-supports-nutrition-sensitive-management-for-small-scale-fisheries/).*

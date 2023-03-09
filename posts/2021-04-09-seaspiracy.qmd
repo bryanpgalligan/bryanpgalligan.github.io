@@ -1,11 +1,11 @@
 ---
-title: "Fact checking Netflix's *Seaspiracy*"
+title: "Fact Checking Netflix's *Seaspiracy*"
 author: "Bryan P. Galligan, S.J."
 date: "4/9/2021"
-image: seaspiracy_april2021.jpg
+image: 2021-04-09-seaspiracy.jpg
 ---
 
-![](seaspiracy_april2021.jpg)
+![](2021-04-09-seaspiracy.jpg)
 
 *Seaspiracy*, the new documentary about global fisheries, has performed remarkably well on review aggregating websites and Netflix’s Top 10 list. Its reception among ocean experts, though, has been [much less positive](https://sustainablefisheries-uw.org/science-of-seaspiracy/). The film is littered with factual errors, consistently misrepresents important ocean conservation issues, and draws conclusions that are not supported by the evidence. This is particularly disappointing because these profound inaccuracies risk obscuring the real issues the documentary brings to light.
 

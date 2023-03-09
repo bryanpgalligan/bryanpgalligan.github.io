@@ -1,7 +1,7 @@
 ---
-title: "My Fishy Thinking"
+title: "My Fishy Thoughts"
+subtitle: "A science/policy blog with current events, policy perspectives, and publication announcements"
 listing:
-  type: grid
   contents: posts
   sort: "date desc"
   fields: 
@@ -9,6 +9,5 @@ listing:
     - title
     - date
     - reading-time
+    - description
 ---
-
-Browse below for my latest posts on current events, policy perspectives, and publication announcements.
