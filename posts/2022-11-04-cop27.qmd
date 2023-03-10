@@ -7,4 +7,38 @@ image: 2022-11-04-cop27.jpg
 
 ![](2022-11-04-cop27.jpg)
 
+At the 2022 UN climate change conference (COP27), negotiators are set to make some important decisions about the future of food.
+
+## Why is food being discussed at COP27?
+
+Agriculture and food security have been at the core of global climate governance from the very beginning. The 1992 United Nations Framework Convention on Climate Change ([UNFCCC](https://unfccc.int/files/essential_background/background_publications_htmlpdf/application/pdf/conveng.pdf)), the foundational treaty for global climate governance, states that climate mitigation “should be achieved within a time frame sufficient…to ensure that food production is not threatened.” It also characterizes agriculture as crucial for mitigation (drawing down greenhouse gas emissions) and highly vulnerable to climate impacts. The 2015 [Paris Agreement](https://unfccc.int/sites/default/files/english_paris_agreement.pdf) places a similar emphasis on food, mostly in the context of adaptation, and likewise recognizes “the particular vulnerability of food production systems.” Indeed, food systems are the only sector that is named in both of the main legal instruments governing climate change at the global level.
+
+Because food systems are so important for climate mitigation and adaptation, the 23rd Conference of the Parties (COP23), held in Bonn in 2017, decided to initiate a work program on agriculture under the UNFCCC, called the Koronivia Joint Work on Agriculture ([KJWA](https://unfccc.int/files/meetings/bonn_nov_2017/application/pdf/cp23_auv_agri.pdf)). Since then, different UN bodies, national governments, and non-governmental observers have worked together to lay out a future for food in global climate governance. They will have an opportunity to conclude the first phase of that work at COP27.
+
+A few outcomes are possible. The first and best option is that parties decide to form a permanent body to guide the implementation of climate adaptation and mitigation in food systems. This decision would help provide policy and financial support to small-scale producers, empower the UNFCCC to interface with other UN bodies involved in global food governance, and could even contribute to the much-needed transformation of global food systems. A second option would be to delay the decision, which would leave small-scale producers without support for at least another several months. The third option would be to decide on a less robust future for the KJWA. This outcome would be very disappointing and would probably result in increased hunger and malnutrition globally. It would also benefit the large multinational corporations that [currently control global food systems](https://doi.org/10.1080/03066150.2022.2129013).
+
+## Why is an inclusive and participatory food systems approach so important?
+
+A permanent body for food under the UNFCCC should take an inclusive and participatory food systems approach. A narrow focus on production, or an even narrower focus on specific kinds of production, would not be consistent with the Paris Agreement’s prioritization of food security. Increasingly, food security is defined according to [six pillars](https://doi.org/10.1016/j.foodpol.2021.102164): *availability* of food, *access* to food, *utilization* of food, *stability* of food systems, *agency* of producers and consumers, and *sustainability*. Production only accounts for one of these pillars (availability), and excluding important production systems like capture fisheries would not even do that. A broad mandate will be very important.
+
+But a systemic approach is not enough. If we take seriously the agency pillar of food security, and if UN member states are to honor their legal commitment to upholding human rights, food systems governance must be inclusive and participatory. Large agribusinesses have the means to attend and influence large international meetings like COP27, but most food producers do not. And yet, more than 70% of the world’s agricultural land is controlled by just 1% of farms, while small family farms use the planet’s remaining cropland to produce 80% of the world’s food [in value terms](https://www.unccd.int/sites/default/files/2022-04/UNCCD_GLO2_low-res_2.pdf). Democratic principles, not corporate hegemony, must be enshrined in any UNFCCC permanent body. The UN Committee on World Food Security’s [Civil Society and Indigenous Peoples’ Mechanism](https://www.csm4cfs.org/) provides a model for this type of governance.
+
+## Can agroecology be included as part of these efforts?
+
+Principles consistent with agroecology have already been included in the KJWA. These include:
+
+* the use of organic fertilizers that enhance soil biodiversity and do not rely on fossil fuels;
+
+* the value of incorporating diversification, recycling, and efficiency, and supporting synergies within food systems;
+
+* the need for inclusive and participatory adaptation centered on small-scale producers, indigenous peoples, local and vulnerable communities, women, and youth; and
+
+* the inclusion of scientific, local, and indigenous knowledge.
+
+These principles are not on the agenda for discussion at COP27 because they were already settled in previous meetings. Nonetheless, they could still fall victim to last-minute compromises in the negotiating process. This must not be allowed to happen.
+
+The importance of food systems, inclusive and participatory governance, and agroecology were all highlighted in the [African Climate Dialogues](https://www.cidse.org/2022/10/17/african-climate-dialogues-communique/), a series of discussions held among Catholic Church and secular civil society actors in Africa in the months leading up to COP27. Now, and with the [full support](https://www.aciafrica.org/index.php/news/6870/climate-change-is-structural-sin-bishops-in-africa-say-demand-world-leaders-action) of the Catholic Church’s highest body on the continent, world leaders must make meaningful progress by ensuring food systems have a central place in climate governance.
+
+*Photo: [United Nations/M. Yousuf Tushar](https://www.flickr.com/photos/unwomenasiapacific/8410943594)*
+
 *This post was originally shared on the [JENA blog](https://www.ej.jesuits.africa/cop27-perspective-the-future-of-food/).*
