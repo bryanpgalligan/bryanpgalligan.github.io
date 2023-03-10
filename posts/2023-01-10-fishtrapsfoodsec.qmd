@@ -7,4 +7,58 @@ image: 2023-01-10-fishtrapsfoodsec.jpg
 
 ![](2023-01-10-fishtrapsfoodsec.jpg)
 
-*This post was originally shared on the [JENA blog](https://www.ej.jesuits.africa/new-research-jena-supports-nutrition-sensitive-management-for-small-scale-fisheries/).*
+East Africa's coral reef fisheries are threatened by climate change, overexploitation, and poor management. And in this part of the world, where artisanal fisheries are a key source of food and income for coastal communities, these threats have direct impacts on food security. One way to make these fisheries more sustainable is to target larger, sexually mature fishes, and let juvenile fish grow to reproduce at least once before they are removed from the ecosystem. This is what managers, researchers, and communities have been doing for years by modifying traditional African fish traps with an escape gap for undersize fish.
+
+Previous work on these "gated" traps has found that they improve the sustainability and quantity of the fish caught while also increasing fishers' incomes. They are also more sustainable than some other gears used in artisanal reef fisheries, such as beach seines and gillnets. Our latest paper is the most comprehensive evaluation of these new traps to date. We developed a suite of indicators to compare how gated traps affect the ecological function of coral reefs and the food security of coastal communities.
+
+A key concern was that although targeting larger individuals and species (as gated traps do) is generally considered to be more sustainable and to produce more total fish, it could also affect the nutritional quality of the catch if smaller fish species are more nutrient dense.
+
+```{r}
+#| echo: false
+#| output: false
+
+# Load packages
+library(readr)
+library(ggplot2)
+
+# Load data
+trap.species <- read_csv("blog-data-files/SpeciesData_GatedTraps.csv")
+
+```
+
+```{r}
+#| label: fig-calcium
+#| fig-cap: Smaller species are richer in calcium than larger ones.
+#| warning: false
+#| code-fold: true
+
+# Plot concentration against species size
+ggplot(trap.species, aes(x = Lmat_cm, y = Calcium_mgPer100g)) +
+  geom_point(alpha = 0.3) +
+  geom_smooth(method = "lm") +
+  coord_cartesian(xlim = c(0, 100), ylim = c(0, 250)) +
+  labs(title = "",
+    x = expression(paste("Optimum Length (", L[opt], ") (cm)", sep = "")),
+    y = expression(
+      paste("Calcium Concentration ",
+        bgroup("(", frac('mg', '100g'), ")"),
+        sep = ""))) +
+  scale_x_continuous(expand = c(0, 0)) +
+  scale_y_continuous(expand = c(0, 0)) +
+  theme(panel.grid.major = element_blank(),
+    panel.grid.minor = element_blank(),
+    panel.background = element_blank(),
+    axis.line = element_line(colour = "black"),
+    plot.margin = unit(c(0.5, 0.5, 0.5, 0.5), "cm"))
+
+
+```
+
+
+
+
+
+
+*Photo: Wildlife Conservation Society (WCS)*
+
+
