@@ -1,9 +1,9 @@
 ---
-title: "Media"
+title: "Coverage of My Work"
 listing:
   contents: media
   sort: "date desc"
   type: default
 ---
 
-This list contains coverage of my work in popular media.
+This list contains coverage of me and my work in popular media.
