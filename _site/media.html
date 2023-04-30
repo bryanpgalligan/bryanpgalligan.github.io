@@ -7,7 +7,7 @@
 <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes">
 
 
-<title>Bryan P. Galligan, S.J. - Active Research Projects</title>
+<title>Bryan P. Galligan, S.J. - Media</title>
 <style>
 code{white-space: pre-wrap;}
 span.smallcaps{font-variant: small-caps;}
@@ -20,25 +20,6 @@ ul.task-list li input[type="checkbox"] {
   margin: 0 0.8em 0.2em -1.6em;
   vertical-align: middle;
 }
-div.csl-bib-body { }
-div.csl-entry {
-  clear: both;
-}
-.hanging div.csl-entry {
-  margin-left:2em;
-  text-indent:-2em;
-}
-div.csl-left-margin {
-  min-width:2em;
-  float:left;
-}
-div.csl-right-inline {
-  margin-left:2em;
-  padding-left:1em;
-}
-div.csl-indent {
-  margin-left: 2em;
-}
 </style>
 
 
@@ -49,6 +30,8 @@ div.csl-indent {
 <script src="site_libs/quarto-search/fuse.min.js"></script>
 <script src="site_libs/quarto-search/quarto-search.js"></script>
 <meta name="quarto:offset" content="./">
+<script src="site_libs/quarto-listing/list.min.js"></script>
+<script src="site_libs/quarto-listing/quarto-listing.js"></script>
 <script src="site_libs/quarto-html/quarto.js"></script>
 <script src="site_libs/quarto-html/popper.min.js"></script>
 <script src="site_libs/quarto-html/tippy.umd.min.js"></script>
@@ -77,11 +60,41 @@ div.csl-indent {
     "search-submit-button-title": "Submit"
   }
 }</script>
+<script>
 
+  window.document.addEventListener("DOMContentLoaded", function (_event) {
+    const listingTargetEl = window.document.querySelector('#listing-listing .list');
+    if (!listingTargetEl) {
+      // No listing discovered, do not attach.
+      return; 
+    }
+
+    const options = {
+      valueNames: ['listing-date','listing-title','listing-author','listing-subtitle','listing-image','listing-description',{ data: ['index'] },{ data: ['categories'] },{ data: ['listing-date-sort'] },{ data: ['listing-file-modified-sort'] }],
+      
+      searchColumns: ["listing-date","listing-title","listing-author","listing-subtitle","listing-image","listing-description"],
+    };
+
+    window['quarto-listings'] = window['quarto-listings'] || {};
+    window['quarto-listings']['listing-listing'] = new List('listing-listing', options);
+
+    if (window['quarto-listing-loaded']) {
+      window['quarto-listing-loaded']();
+    }
+  });
+
+  window.addEventListener('hashchange',() => {
+    if (window['quarto-listing-loaded']) {
+      window['quarto-listing-loaded']();
+    }
+  })
+  </script>
+
+  <script src="https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-chtml-full.js" type="text/javascript"></script>
 
 <link rel="stylesheet" href="styles.css">
-<meta name="twitter:title" content="Bryan P. Galligan, S.J. - Active Research Projects">
-<meta name="twitter:description" content="I think of myself as a professional scientist and amateur ethicist putting integral ecology into practice in coastal and marine systems.">
+<meta name="twitter:title" content="Bryan P. Galligan, S.J. - Media">
+<meta name="twitter:description" content="This list contains coverage of my work in popular media.">
 <meta name="twitter:site" content="@galligan_sj">
 <meta name="twitter:card" content="summary">
 </head>
@@ -107,7 +120,7 @@ div.csl-indent {
  <span class="menu-text">Home</span></a>
   </li>  
   <li class="nav-item">
-    <a class="nav-link active" href="./research.html" aria-current="page">
+    <a class="nav-link" href="./research.html">
  <span class="menu-text">Research</span></a>
   </li>  
   <li class="nav-item">
@@ -115,7 +128,7 @@ div.csl-indent {
  <span class="menu-text">Publications</span></a>
   </li>  
   <li class="nav-item">
-    <a class="nav-link" href="./media.html">
+    <a class="nav-link active" href="./media.html" aria-current="page">
  <span class="menu-text">Media</span></a>
   </li>  
 </ul>
@@ -129,22 +142,14 @@ div.csl-indent {
 <!-- sidebar -->
 <!-- margin-sidebar -->
     <div id="quarto-margin-sidebar" class="sidebar margin-sidebar">
-        <nav id="TOC" role="doc-toc" class="toc-active">
-    <h2 id="toc-title">On this page</h2>
-   
-  <ul>
-  <li><a href="#nutrient-yields-from-small-scale-fisheries" id="toc-nutrient-yields-from-small-scale-fisheries" class="nav-link active" data-scroll-target="#nutrient-yields-from-small-scale-fisheries">Nutrient yields from small-scale fisheries</a></li>
-  <li><a href="#social-justice-and-human-rights-in-ocean-governance" id="toc-social-justice-and-human-rights-in-ocean-governance" class="nav-link" data-scroll-target="#social-justice-and-human-rights-in-ocean-governance">Social justice and human rights in ocean governance</a></li>
-  <li><a href="#integral-ecology-in-research-policy-and-practice" id="toc-integral-ecology-in-research-policy-and-practice" class="nav-link" data-scroll-target="#integral-ecology-in-research-policy-and-practice">Integral ecology in research, policy, and practice</a></li>
-  </ul>
-</nav>
+        
     </div>
 <!-- main -->
 <main class="content" id="quarto-document-content">
 
 <header id="title-block-header" class="quarto-title-block default">
 <div class="quarto-title">
-<h1 class="title">Active Research Projects</h1>
+<h1 class="title">Media</h1>
 </div>
 
 
@@ -159,51 +164,74 @@ div.csl-indent {
 
 </header>
 
-<p>I think of myself as a professional scientist and amateur ethicist putting <a href="https://lsri.campion.ox.ac.uk/node/1628">integral ecology</a> into practice in coastal and marine systems. My interests are quite broad, and I am always on the lookout for complex problems that could benefit from the tools of fisheries science. These are the projects I’m currently working on.</p>
-<p><img src="data-files/sayidi.jpg" class="img-fluid"></p>
-<section id="nutrient-yields-from-small-scale-fisheries" class="level2">
-<h2 class="anchored" data-anchor-id="nutrient-yields-from-small-scale-fisheries">Nutrient yields from small-scale fisheries</h2>
-<p>Small-scale fisheries (SSF) are an important source of food, nutrition, and income in developing countries, but they face many challenges and are often neglected in policy and management. In addition to providing important benefits for people, SSF often take place in highly complex social and ecological systems and tend to be understudied relative to industrial fisheries. This project uses catch data and information about the nutritional value of fished species to ask questions about social and ecological trade offs in fishery management. Can we sustainably increase the quantity and quality of food produced by SSF? Where SSF take place in the tropics, can we preserve coral reef ecological function without compromising food security? The first publication from this project shows that managing Kenyan trap fisheries to target fish with larger, more sustainable body sizes is associated with improved nutrient yields <span class="citation" data-cites="galligan2022">(<a href="#ref-galligan2022" role="doc-biblioref">Galligan et al., 2022</a>)</span>.</p>
-</section>
-<section id="social-justice-and-human-rights-in-ocean-governance" class="level2">
-<h2 class="anchored" data-anchor-id="social-justice-and-human-rights-in-ocean-governance">Social justice and human rights in ocean governance</h2>
-<p>Current models of ocean governance often marginalize small-scale actors and fail to deliver on international human rights obligations. In this project, I advance criticisms that highlight the negative social and environmental impacts of these harmful governance models and advocate for more just alternatives, such as human rights-based and nutrition-sensitive approaches. In this context, I work to occupy a space of radical critique while still offering feasible solutions. The outcomes of this project include publications on extractivism in UNCLOS <span class="citation" data-cites="galligan2021">(<a href="#ref-galligan2021" role="doc-biblioref">Galligan, 2021</a>)</span> and blue justice in Kenya <span class="citation" data-cites="galligankinney2021">(<a href="#ref-galligankinney2021" role="doc-biblioref">Galligan &amp; Kinney, 2021</a>)</span>.</p>
-<div class="quarto-figure quarto-figure-center">
-<figure class="figure">
-<p><img src="data-files/fishingcamplamu.jpg" class="img-fluid figure-img"></p>
-<p></p><figcaption class="figure-caption">Boats pulled up at a seasonal fishing camp in Lamu, Kenya</figcaption><p></p>
-</figure>
-</div>
-</section>
-<section id="integral-ecology-in-research-policy-and-practice" class="level2">
-<h2 class="anchored" data-anchor-id="integral-ecology-in-research-policy-and-practice">Integral ecology in research, policy, and practice</h2>
-<p>As a Jesuit in formation to be a Catholic priest, I am deeply inspired by the thought of Pope Francis, who <a href="https://www.vatican.va/content/francesco/en/encyclicals/documents/papa-francesco_20150524_enciclica-laudato-si.html">writes</a>:</p>
-<blockquote class="blockquote">
-<p>“We are faced not with two separate crises, one environmental and the other social, but rather with one complex crisis which is both social and environmental. Strategies for a solution demand an integrated approach to combating poverty, restoring dignity to the excluded, and at the same time protecting nature.”</p>
-</blockquote>
-<p>Francis believes that these integrated, solution-oriented strategies should take on the contours of what he calls “integral ecology.” This project, which I am working on in collaboration with the <a href="https://lsri.campion.ox.ac.uk/">Laudato Si’ Research Institute</a>, is about figuring out what integral ecology means for research, policy, and practice. How does an integral ecology paradigm invite new approaches to knowledge production? Are these methods different for academics from different disciplines? And how can natural scientists develop new approaches to environmental problems without sacrificing disciplinary integrity or rigor?</p>
-<div class="quarto-figure quarto-figure-center">
-<figure class="figure">
-<p><img src="data-files/integralecology.png" class="img-fluid figure-img"></p>
-<p></p><figcaption class="figure-caption">Four pillars of integral ecology for research, policy, and practice</figcaption><p></p>
-</figure>
-</div>
+<p>This list contains coverage of my work in popular media.</p>
 
 
 
-</section>
 
-<div id="quarto-appendix" class="default"><section class="quarto-appendix-contents" role="doc-bibliography"><h2 class="anchored quarto-appendix-heading">References</h2><div id="refs" class="references csl-bib-body hanging-indent" data-line-spacing="2" role="doc-bibliography">
-<div id="ref-galligan2021" class="csl-entry" role="doc-biblioentry">
-Galligan, B. P. (2021). Fisheries extractivism and the right to subsistence: <span>Conflicting</span> governance models and the legal structures that enact them. <em>Marine Policy</em>, <em>133</em>, 104729. <a href="https://doi.org/10.1016/j.marpol.2021.104729">https://doi.org/10.1016/j.marpol.2021.104729</a>
+<div class="quarto-listing quarto-listing-container-default" id="listing-listing">
+<div class="list quarto-listing-default">
+<div class="quarto-post image-right" data-index="0" data-listing-date-sort="1665954000000" data-listing-file-modified-sort="1682882719807" data-listing-reading-time-sort="0.5">
+<div class="thumbnail">
+<p><a href="./media/acd.html"> <img src="./media/media-files/acd.jpg" class="thumnail-image"> </a></p>
 </div>
-<div id="ref-galligankinney2021" class="csl-entry" role="doc-biblioentry">
-Galligan, B. P., &amp; Kinney, S. (2021). Providing access or taking sides? <span>Blue</span> growth, small-scale fisheries, and the case of <span>Lamu</span>, <span>Kenya</span>. <em>Promotio Iustitiae</em>, <em>132</em>(2), 87–94. <a href="https://www.sjesjesuits.global/media/2021/12/PJ_132_ENG.pdf#page=87">https://www.sjesjesuits.global/media/2021/12/PJ_132_ENG.pdf#page=87</a>
+<div class="body">
+<a href="./media/acd.html">
+<h3 class="no-anchor listing-title">
+Climate Change is “structural sin,” Bishops in Africa Say, Demand World Leaders’ Action
+</h3>
+<div class="listing-subtitle">
+ACI Africa
 </div>
-<div id="ref-galligan2022" class="csl-entry" role="doc-biblioentry">
-Galligan, B. P., McClanahan, T. R., &amp; Humphries, A. T. (2022). Nutrient capture and sustainable yield maximized by a gear modification in artisanal fishing traps. <em>Environmental Research Letters</em>, <em>17</em>(12), 124035. <a href="https://doi.org/10.1088/1748-9326/aca77e">https://doi.org/10.1088/1748-9326/aca77e</a>
+<div class="listing-description">
+Members of the Symposium of Episcopal Conference of Africa and Madagascar (SECAM) have joined other…
 </div>
-</div></section></div></main> <!-- /main -->
+</a>
+</div>
+<div class="metadata">
+<a href="./media/acd.html">
+<div class="listing-date">
+Oct 17, 2022
+</div>
+<div class="listing-author">
+Agnes Aineah
+</div>
+</a>
+</div>
+</div>
+<div class="quarto-post image-right" data-index="1" data-listing-date-sort="1655326800000" data-listing-file-modified-sort="1682882394926" data-listing-reading-time-sort="0.605">
+<div class="thumbnail">
+<p><a href="./media/need-more-funds.html"> <img src="./media/media-files/need-more-funds.png" class="thumnail-image"> </a></p>
+</div>
+<div class="body">
+<a href="./media/need-more-funds.html">
+<h3 class="no-anchor listing-title">
+Need for More Funds for Africa Emphasized at Jesuit Entity’s Workshop on Climate Justice
+</h3>
+<div class="listing-subtitle">
+ACI Africa
+</div>
+<div class="listing-description">
+The two-day strategy building workshop that brought together representatives of member and partner organizations of the Jesuit…
+</div>
+</a>
+</div>
+<div class="metadata">
+<a href="./media/need-more-funds.html">
+<div class="listing-date">
+Jun 16, 2022
+</div>
+<div class="listing-author">
+Silas Isenjia
+</div>
+</a>
+</div>
+</div>
+</div>
+<div class="listing-no-matching d-none">
+No matching items
+</div>
+</div></main> <!-- /main -->
 <script id="quarto-html-after-body" type="application/javascript">
 window.document.addEventListener("DOMContentLoaded", function (event) {
   const toggleBodyColorMode = (bsSheetEl) => {
