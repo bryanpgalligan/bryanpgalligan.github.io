@@ -11,8 +11,8 @@ website:
         text: Research
       - href: publications.qmd
         text: Publications
-      - href: blog.qmd
-        text: Blog
+      - href: media.qmd
+        text: Media
   twitter-card:
     site: "@galligan_sj"
 
