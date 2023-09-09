@@ -19,14 +19,11 @@ about:
     - icon: envelope-fill
       text: Email
       href: mailto:bgalligan@jesuits.org
-    - icon: pencil-fill
-      text: CV
-      href: https://drive.google.com/file/d/1MVk-ApGRvsZw85tEgCk6GD3bbECjxHl0/view?usp=sharing
 ---
 
 # Welcome!
 
-I am a Jesuit scholastic and fisheries scientist working to solve complex sustainability problems through the lens of integral ecology. The driving force behind my work is a desire to produce the type of knowledge that will support social and ecological transformation in marine systems. I currently focus on the intersection between marine fisheries ecology and food systems governance, and I strive to connect my research to specific policy processes with concrete outcomes. My areas of interest include small-scale fisheries, blue foods, and ocean governance.
+I am a Jesuit scholastic and fisheries scientist working to solve complex sustainability problems through the lens of integral ecology. The driving force behind my work is a desire to produce the type of knowledge that will support social and ecological transformation in marine systems. I currently focus on the intersection between marine fisheries ecology and food systems governance, and I strive to connect my research to specific policy processes with concrete outcomes. My areas of interest include small-scale fisheries, blue foods, and ocean governance. To find out more about me and my work, explore this website or read my CV [here](data-files/galligan-cv.pdf).
 
 ## Education
 
