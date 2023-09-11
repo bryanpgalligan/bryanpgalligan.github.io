@@ -1,8 +1,28 @@
 ---
-title: "Active Research Projects"
+title: "My Research"
 bibliography: data-files/references.bib
 csl: data-files/apa.csl
 ---
+
+Broadly speaking, my research focuses on coastal fisheries and their management.
+
+## Nutrient yields from coral reefs
+
+
+## Narragansett Bay
+
+
+## Ecological justice in ocean governance
+
+
+
+
+
+
+
+
+
+
 
 My research works to put [integral ecology](https://lsri.campion.ox.ac.uk/node/1628) into practice in coastal and marine systems. My interests are quite broad, and I am always on the lookout for complex problems that could benefit from the tools of fisheries science. These are the projects I'm currently working on.
 
