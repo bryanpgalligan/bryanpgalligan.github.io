@@ -23,7 +23,9 @@ about:
 
 # Welcome!
 
-I am a Jesuit scholastic and marine ecologist interested in sustainable fisheries and ecological justice. Most of my work has focused on the intersection between fisheries and food security, including a significant emphasis on East African coral reefs. I have also worked on commercial fisheries in Narragansett Bay, Rhode Island, U.S.A., and am broadly interested in coastal ecosystem transitions due to climate change and other anthropogenic pressures, functional approaches to ecology and management, and achieving sustainable and just ocean governance.
+I am a Jesuit scholastic and marine scientist interested in coastal ecology and sustainable fisheries. Most of my work has focused on the intersection between fisheries and food security, including a significant emphasis on East African coral reefs. I have also worked on commercial fisheries in Narragansett Bay, Rhode Island, U.S.A. My scientific interests include functional ecology, population dynamics, and human impacts on coastal ecosystems.
+
+I believe marine science can be a powerful tool for ecological justice, particularly when it is practiced in dialogue with communities and decision makers.
 
 To find out more about me and my work, explore this website and/or read [my CV](data-files/galligan-cv.pdf). To find out more about the Jesuits, including our training process and the types of work we do, click [here](https://beajesuit.org).
 
