@@ -9,7 +9,7 @@ citation-location: margin
 
 ## Nutrition-sensitive management of coral reef fisheries
 
-Approximately 13% of the world's population rely on coral reefs in some way, including for food security and nutrition [@singwong2022]. At the same time, coral reef ecosystems are under immense pressure from overfishing, pollution, and climate change. While working for the Jesuit Justice and Ecology Network Africa in Nairobi, Kenya, I studied the relationship between fishery management, ecological function, and production of nutrients for human consumption in the artisanal coral reef fisheries of the Western Indian Ocean [@galligan2022].
+Approximately 13% of the world's population benefit from coral reefs in some way [@singwong2022]. At the same time, coral reef ecosystems are under immense pressure from overfishing, pollution, and climate change. While working for the Jesuit Justice and Ecology Network Africa in Nairobi, Kenya, I studied the relationship between fishery management, ecological function, and production of nutrients for human consumption in the artisanal coral reef fisheries of the Western Indian Ocean [@galligan2022].
 
 ![Boats pulled up at a seasonal fishing camp in Lamu, Kenya](data-files/fishingcamplamu.jpg)
 
@@ -24,12 +24,12 @@ Northern quahogs (*Mercenaria mercenaria*) sustain a significant small-scale fis
 ![A quahog predator not included in our study, the ring-billed gull (*Larus delawarensis*)](data-files/narragansettgull.jpg)
 :::
 
-## Ecological justice for sustainable fisheries
+## Integral ecology
 
 As a Jesuit in formation to be a Catholic priest, I am deeply inspired by the thought of Pope Francis, who writes [-@francis2015, no. 139]:
 
 > "We are faced not with two separate crises, one environmental and the other social, but rather with one complex crisis which is both social and environmental. Strategies for a solution demand an integrated approach to combating poverty, restoring dignity to the excluded, and at the same time protecting nature."
 
-My own "integrated approach" incorporates ethical reflection and advocacy alongside scientific research. It also influences what questions I choose to ask and how I seek to answer them [@zepeda2023]. While studying ethics at Loyola University Chicago, I developed a critique of international ocean governance that identified an extractivist paradigm in global fisheries [@galligan2021]. More recently, I worked with a community on Kenya's north coast to share their story of seeking remedy for human rights violations perpetrated by the government [@galligan2021b].
+My own "integrated approach" has meant incorporating ethical reflection and advocacy alongside scientific research. It also motivates me to work with marginalized communities and produce the kinds of knowledge that will serve their needs. For a full explanation of what integral ecology can look like as a research method, see the briefing note I developed in collaboration with a colleague at the [Laudato Si' Research Institute](https://lsri.campion.ox.ac.uk/) at the University of Oxford [@zepeda2023].
 
-![The four pillars of integral ecology, summarizing Pope Francis in *Laudato si'*](data-files/integralecology.png){width=85% fig-align="left"}
+![The four pillars of integral ecology, based on *Laudato si'*](data-files/integralecology.png){width=85% fig-align="left"}
