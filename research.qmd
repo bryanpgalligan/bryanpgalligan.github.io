@@ -9,13 +9,13 @@ citation-location: margin
 
 ## Nutrition-sensitive management of coral reef fisheries
 
-Coral reefs support millions of fishers and provide ecosystem services such as food production and shoreline protection to over a billion people, most in tropical developing countries [@singwong2022]. While working for the Jesuit Justice and Ecology Network Africa in Nairobi, Kenya, I studied the relationship between fishery management, ecological function, and production of nutrients for human consumption in the artisanal coral reef fisheries of the Western Indian Ocean [@galligan2022]. We found that traditional management measures, such as modifying gears and restoring reef fish biomass, increased nutrient yields from fisheries without compromising the nutritional quality of the catch.
+Coral reefs support millions of fishers and provide ecosystem services such as food production and shoreline protection to over a billion people, most in tropical developing countries [@singwong2022]. While working for the Jesuit Justice and Ecology Network Africa in Nairobi, Kenya, I studied the relationship between fishery management, ecological function, and production of nutrients for human consumption in the artisanal coral reef fisheries of the Western Indian Ocean [@galligan2022]. We found that traditional management measures, such as modifying gears and restoring reef fish biomass, can increase nutrient yields from fisheries without compromising the nutritional quality of the catch.
 
 ![Boats pulled up at a seasonal fishing camp in Lamu, Kenya](data-files/fishingcamplamu.jpg)
 
 ## Hypoxia and predation on a commercially fished bivalve in Narragansett Bay
 
-Northern quahogs (*Mercenaria mercenaria*) sustain a significant small-scale fishery, provide important ecosystem services, and are of great cultural importance in my home state of Rhode Island, U.S.A. However, as Narragansett Bay becomes more oligotrophic and experiences fewer episodes of hypoxia due to improved wastewater treatment, trophic relationships are changing in space and time. I collaborated with researchers at Loyola University Chicago and the Rhode Island Division of Marine Fisheries to study the impacts of these changes on Narragansett Bay quahogs and found evidence for a hypoxia-induced predation refuge that is becoming less influential as water quality improves [@galligan2022b].
+Northern quahogs (*Mercenaria mercenaria*) sustain around 500 small-scale fishers, provide important ecosystem services, and are of great cultural importance in my home state of Rhode Island, U.S.A. However, as Narragansett Bay becomes more oligotrophic and experiences fewer episodes of hypoxia due to improved wastewater treatment, trophic relationships are changing in space and time. I collaborated with researchers at Loyola University Chicago and the Rhode Island Division of Marine Fisheries to study the impacts of these changes on Narragansett Bay quahogs and found evidence for a hypoxia-induced predation refuge that is becoming less influential as water quality improves [@galligan2022b].
 
 ::: {layout-ncol=2}
 
