@@ -1,0 +1,13 @@
+---
+title: "The IUCN says which animals may face extinction. But is it up to the job?"
+subtitle: "The Guardian"
+author: "Matthew Ponsford"
+date: "11/22/2023"
+---
+
+![](media-files/red-list.png)
+
+While richer western countries direct funding via national conservation strategies and national "red lists," the IUCN red list has become a de facto conservation priorities list in many developing countries, argue its critics. The dynamic between global north and south has been historically underappreciated, says Hughes, with most specialist groups still conducted in English or another UN language, leaving voices across Asia in particular among those likely to get lost.
+
+Read the full article [here](https://www.theguardian.com/environment/2023/nov/22/iucn-red-list-conservation-animals-at-risk-of-extinction-but-is-it-outdated-unreliable-aoe). For the preprint it is based on, click [here](https://doi.org/10.22541/au.169945445.50394320/v1).
+
