@@ -4,6 +4,10 @@ title: "Published Works"
 
 ## Peer-reviewed publications
 
+#### 2024
+
+**Galligan, B. P.**, & McClanahan, T. R. Nutrition contributions of coral reef fisheries not enhanced by capture of small fish. *Ocean and Coastal Management*, in press.
+
 #### 2022
 
 **Galligan, B. P.**, McClanahan, T. R., & Humphries, A. T. Nutrient capture and sustainable yield maximized by a gear modification in artisanal fishing traps. *Environmental Research Letters*, *17*(12), 124035. [doi](https://doi.org/10.1088/1748-9326/aca77e) [pdf](data-files/galliganetal2022b.pdf) [data](https://doi.org/10.5281/zenodo.7256316)

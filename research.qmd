@@ -7,15 +7,15 @@ citation-location: margin
 
 
 
-## Nutrition-sensitive management of coral reef fisheries
+## Nutrient yields in coral reef fisheries
 
-Coral reefs support millions of fishers and provide ecosystem services such as food production and shoreline protection to over a billion people, most in tropical developing countries [@singwong2022]. While working for the Jesuit Justice and Ecology Network Africa in Nairobi, Kenya, I studied the relationship between fishery management, ecological function, and production of nutrients for human consumption in the artisanal coral reef fisheries of the Western Indian Ocean [@galligan2022]. We found that traditional management measures, such as modifying gears and restoring reef fish biomass, can increase nutrient yields from fisheries without compromising the nutritional quality of the catch.
+Coral reefs support millions of fishers and provide ecosystem services such as food production and shoreline protection to over a billion people, most in tropical developing countries. Since 2021, I have studied the relationship between fishery management, ecological function, and the production of dietary nutrients in artisanal coral reef fisheries of the Western Indian Ocean. Using data from Kenya, we found that traditional management measures, such as modifying gears to avoid capture of undersized fishes, targeting medium and large body sizes, and restoring reef fish biomass, are associated with higher nutrient yields in unselective coral reef fisheries [@galligan2022; @galligan2024]. My current work explores the factors that drive nutrient composition of fish catches across the Western Indian Ocean and how these can be leveraged by managers to support the health of coastal populations.
 
 ![Boats pulled up at a seasonal fishing camp in Lamu, Kenya](data-files/fishingcamplamu.jpg)
 
 ## Hypoxia and predation on a commercially fished bivalve in Narragansett Bay
 
-Northern quahogs (*Mercenaria mercenaria*) sustain around 500 small-scale fishers, provide important ecosystem services, and are of great cultural importance in my home state of Rhode Island, U.S.A. However, as Narragansett Bay becomes more oligotrophic and experiences fewer episodes of hypoxia due to improved wastewater treatment, trophic relationships are changing in space and time. I collaborated with researchers at Loyola University Chicago and the Rhode Island Division of Marine Fisheries to study the impacts of these changes on Narragansett Bay quahogs and found evidence for a hypoxia-induced predation refuge that is becoming less influential as water quality improves [@galligan2022b].
+Northern quahogs (*Mercenaria mercenaria*) sustain around 500 small-scale fishers, provide important ecosystem services, and are of great cultural importance in my home state of Rhode Island, U.S.A. However, as Narragansett Bay becomes more oligotrophic and experiences fewer episodes of hypoxia due to improved wastewater treatment, trophic relationships are changing in space and time. I collaborated with researchers at Loyola University Chicago and the Rhode Island Division of Marine Fisheries to study the impacts of these changes on Narragansett Bay quahogs and found evidence that improved water quality has made juvenile clams more vulnerable to predators, leading to smaller cohorts and lower recruitment [@galligan2022b].
 
 ::: {layout-ncol=2}
 
@@ -30,6 +30,6 @@ As a Jesuit in formation to be a Catholic priest, I am deeply inspired by the th
 
 > "We are faced not with two separate crises, one environmental and the other social, but rather with one complex crisis which is both social and environmental. Strategies for a solution demand an integrated approach to combating poverty, restoring dignity to the excluded, and at the same time protecting nature."
 
-My own "integrated approach" has meant incorporating ethical reflection and advocacy alongside scientific research. It also motivates me to work with marginalized communities and produce the kinds of knowledge that will serve their needs. For a full explanation of what integral ecology can look like as a research method, see the briefing note I developed in collaboration with a colleague at the [Laudato Si' Research Institute](https://lsri.campion.ox.ac.uk/) at the University of Oxford [@zepeda2023].
+My own "integrated approach" has meant incorporating ethical reflection and policy advocacy alongside scientific research. It also motivates me to work with marginalized communities and produce the kinds of knowledge that will serve their needs. For a full explanation of what integral ecology can look like as a research method, see the briefing note I developed in collaboration with a colleague at the [Laudato Si' Research Institute](https://lsri.campion.ox.ac.uk/) at the University of Oxford [@zepeda2023].
 
 ![The four intersecting lenses of integral ecology, based on *Laudato si'*](data-files/integralecology.png){width=85% fig-align="left"}
