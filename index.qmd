@@ -1,7 +1,7 @@
 ---
 title: "Bryan P. Galligan, S.J."
 about:
-  template: trestles
+  template: solana
   image: data-files/portrait.jpg
   links:
     - icon: twitter
@@ -21,18 +21,32 @@ about:
       href: mailto:bgalligan@jesuits.org
 ---
 
-# Welcome!
+I am a Jesuit scholastic and marine fisheries ecologist interested in coastal ecosystems and their sustainability. My current work focuses on modeling ecological processes to inform policy and management, both for Western Indian Ocean coral reefs and for commercial fisheries in the Northeastern United States. I am also interested in the intersection of science and theology, particularly in the context of ecological ethics and environmental justice.
 
-I am a Jesuit scholastic and marine ecologist interested in coastal ecosystems and sustainable fisheries. My current work focuses on modeling ecological processes to inform policy and management. This has included work on the drivers of nutrient production in coral reef fisheries and the impacts of environmental change on commercially exploited species in the Northeastern United States. I have also conducted advocacy at  U.N. climate negotiations and have an ongoing interest in justice-oriented approaches to ocean governance.
-
-I believe marine science can be a powerful tool for ecological justice, particularly when it is practiced in dialogue with communities and decision makers.
-
-To find out more about me and my work, explore this website and/or read [my CV](data-files/galligan-cv.pdf). To find out more about the Jesuits, including our training process and the types of work we do, click [here](https://beajesuit.org).
+To find out more about the Jesuits, including our training process and the types of work we do, click [here](https://beajesuit.org/about/the-society-of-jesus/).
 
 ## Education
 
-**Boston College** | Boston, MA | MDiv in Theology and Ministry | ThM in Biblical Studies | Aug 2023 -- present
+**Boston College** | Boston, MA\
+ThM in Biblical Studies | Aug 2024 -- present\
+MDiv in Theology and Ministry | Aug 2023 -- present
 
-**Loyola University Chicago** | Chicago, IL | MA in Social Philosophy | Aug 2019 -- May 2021
+**Loyola University Chicago** | Chicago, IL\
+MA in Social Philosophy | Aug 2019 -- May 2021
 
-**Fordham University** | Bronx, NY | BS in Biology and Theology | Aug 2011 -- May 2015
+**Fordham University** | Bronx, NY\
+BS in Biology and Theology | Aug 2011 -- May 2015
+
+## Professional Appointments
+
+**Loyola University Chicago** | Chicago, IL\
+Visiting Scholar, Biology Department | Aug 2021 -- present
+
+**Jesuit Justice and Ecology Network Africa** | Nairobi, KE\
+Research and Policy Analyst | Aug 2021 -- Jul 2023
+
+**Canisius High School** | Buffalo, NY\
+Biology Teacher | Jan 2016 -- Jun 2017
+
+**Rhode Island Division of Marine Fisheries** | Jamestown, RI\
+Research Assistant | Jun 2015 -- Nov 2015

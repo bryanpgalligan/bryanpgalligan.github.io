@@ -1,9 +1,7 @@
 ---
-title: "Media Coverage"
+title: "News and Interviews"
 listing:
   contents: media
   sort: "date desc"
   type: default
 ---
-
-A list of news media and storytelling products about me and the research and advocacy work I've been a part of.
