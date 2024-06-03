@@ -7,15 +7,15 @@ citation-location: margin
 
 
 
-## Nutrient yields in coral reef fisheries
+## Coral reef fisheries in the Western Indian Ocean
 
-Coral reefs support millions of fishers and provide ecosystem services such as food production and shoreline protection to over a billion people, most in tropical developing countries. Since 2021, I have studied the relationship between fishery management, ecological function, and the production of dietary nutrients in the artisanal coral reef fisheries of the Western Indian Ocean. Using data from Kenya, we found that traditional management measures, such as gear modification and length-based approaches, are associated with higher nutrient yields in unselective coral reef fisheries [@galligan2022; @galligan2024]. We also studied the the factors that drive nutrient composition of fish catches across the Western Indian Ocean and how these can be leveraged by managers to support the health of coastal populations [@galligan2024b].
+Coral reefs support millions of fishers and provide ecosystem services such as food production and shoreline protection to over a billion people, most in tropical developing countries. Since 2021, I have studied the relationship between fishery management, ecological function, and the production of dietary nutrients and biomass in the artisanal coral reef fisheries of the Western Indian Ocean. In Kenya, we found that traditional management measures, such as gear modification and length-based approaches, are associated with higher nutrient yields in unselective coral reef fisheries [@galligan2022; @galligan2024]. We also studied the the factors that drive nutrient composition of fish catches across the Western Indian Ocean and how these can be leveraged by managers to support the health of coastal populations [@galligan2024b]. My current work investigates the recovery rates of fish communities after the implementation of fishery closures.
 
 ![Boats pulled up at a seasonal fishing camp in Lamu, Kenya](data-files/fishingcamplamu.jpg)
 
-## Hypoxia and predation on a commercially fished bivalve in Narragansett Bay
+## Commercial fisheries in Rhode Island, U.S.A.
 
-Northern quahogs (*Mercenaria mercenaria*) sustain around 500 small-scale fishers, provide important ecosystem services, and are of great cultural importance in my home state of Rhode Island, U.S.A. However, as Narragansett Bay becomes more oligotrophic and experiences fewer episodes of hypoxia due to improved wastewater treatment, trophic relationships are changing in space and time. I collaborated with researchers at Loyola University Chicago and the Rhode Island Division of Marine Fisheries to study the impacts of these changes on Narragansett Bay quahogs and found evidence that improved water quality has made juvenile clams more vulnerable to predators, leading to smaller cohorts and lower recruitment [@galligan2022b].
+The estuarine and marine ecosystems of Rhode Island, U.S.A., are rapidly changing due to climate warming, improved nutrient management, and the uneven recovery of commercially fished species. The combination of environmental change with the availability of several long-term data sets makes this region a fascinating natural laboratory. I have collaborated with researchers at the Rhode Island Division of Marine Fisheries to study these changing ecosystems and contribute to their management. We investigated water quality records and a fishery-independent survey of Narragansett Bay Quahogs *Mercenaria mercenaria* and found evidence that reduced hypoxia has made juvenile clams more vulnerable to predators, leading to smaller cohorts and lower recruitment [@galligan2022b]. I currently have active projects studying both Quahogs and Winter Flounder *Pseudopleuronectes americanus*.
 
 ::: {layout-ncol=2}
 
@@ -24,7 +24,7 @@ Northern quahogs (*Mercenaria mercenaria*) sustain around 500 small-scale fisher
 ![A quahog predator not included in our study, the ring-billed gull (*Larus delawarensis*)](data-files/narragansettgull.jpg)
 :::
 
-## Integral ecology
+## Science, ethics, and theology
 
 As a Jesuit in formation to be a Catholic priest, I am deeply inspired by the thought of Pope Francis, who writes [-@francis2015, no. 139]:
 
