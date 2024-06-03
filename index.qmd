@@ -4,8 +4,8 @@ about:
   template: solana
   image: data-files/portrait.jpg
   links:
-    - icon: twitter
-      text: Twitter (X)
+    - icon: twitter-x
+      text: X
       href: https://twitter.com/galligan_sj
     - icon: github
       text: Github
