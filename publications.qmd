@@ -6,7 +6,7 @@ title: "Published Works"
 
 #### 2024
 
-**Galligan, B. P.**, Saldivar, F. C., & Maina, G. W. Human dignity is on the line: Small-scale fisheries, blue growth, and human rights in Lamu, Kenya. In J. Nakamura, R. Chuenpagdee, & S. Jentoft (Eds.), *Implementation of the Small-Scale Fisheries Guidelines: A legal and policy scan* (pp. 99--120). Springer. [doi](https://doi.org/10.1007/978-3-031-56716-2_6)
+**Galligan, B. P.**, Saldivar, F. C., & Maina, G. W. Human dignity is on the line: Small-scale fisheries, blue growth, and human rights in Lamu, Kenya. In J. Nakamura, R. Chuenpagdee, & S. Jentoft (Eds.), *Implementation of the Small-Scale Fisheries Guidelines: A legal and policy scan* (pp. 99--120). Springer. [doi](https://doi.org/10.1007/978-3-031-56716-2_6) [request pdf](mailto:bgalligan@jesuits.org)
 
 **Galligan, B. P.**, & McClanahan, T. R. Tropical fishery nutrient production depends on biomass-based management. *iScience*, *27*(4), 109420. [doi](https://doi.org/10.1016/j.isci.2024.109420) [pdf](data-files/galliganmcclanahan2024b.pdf) [code](https://doi.org/10.5281/zenodo.10149658)
 
