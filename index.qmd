@@ -21,7 +21,9 @@ about:
       href: mailto:bgalligan@jesuits.org
 ---
 
-I am a Jesuit scholastic and marine fisheries ecologist interested in coastal ecosystems and their sustainability. My current work focuses on modeling ecological processes to inform policy and management, both for Western Indian Ocean coral reefs and for commercial fisheries in the Northeastern United States. I am also interested in the intersection of science and theology, particularly in the context of ecological ethics and environmental justice.
+Welcome! I am a Jesuit scholastic and marine scientist with a background in biology, theology, and social ethics. I am interested in using fisheries science, marine ecology, and mixed methods to build resilient aquatic food systems in our era of planetary crisis.
+
+My current work uses ecological modeling to inform policy and management, both for Western Indian Ocean coral reefs and for commercial fisheries in the Northeastern United States. I am also interested in the intersection of science and theology, particularly in the context of ecological ethics and environmental justice.
 
 To find out more about the Jesuits, including our training process and the types of work we do, click [here](https://beajesuit.org/about/the-society-of-jesus/).
 
