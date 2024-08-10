@@ -21,11 +21,17 @@ about:
       href: mailto:bgalligan@jesuits.org
 ---
 
-Welcome! I am a Jesuit scholastic and marine scientist with a background in ecology and social ethics. I am interested in using the tools of fisheries science to build sustainable and resilient aquatic food systems through research that is engaged with communities and policy. I primarily study coral reef artisanal fisheries in the Global South, but I also write about commercial fisheries in the United States as well as broader issues of ethics in ocean governance.
-
-My current work uses ecological modeling to inform policy and management. In tropical fisheries, I have studied the production of nutrients for human consumption and the role of traditional biomass-based management in supporting food security and nutrition. In the Northeastern U.S., my work has focused on characterizing the changing dynamics of species-ecosystem interactions to support improved stock assessment and management, specifically for Northern Quahog *Mercenaria mercenaria* and Winter Flounder *Pseudopleuronectes americanus*.
+Welcome! I am a Jesuit scholastic and marine scientist with a background in fisheries ecology and social ethics. My interests include coral reef fisheries, climate change adaptation, and their intersections with human health and well being, especially food security and nutrition.
 
 To find out more about the Jesuits, including our training process and the types of work we do, click [here](https://beajesuit.org/about/the-society-of-jesus/).
+
+## Research
+
+In the Western Indian Ocean, I study the ecology, management, and governance of artisanal coral reef fisheries. This work has included a strong focus on the production of nutrients for human consumption and on management approaches designed to support the food security and nutrition of coastal communities.
+
+In the northeastern United States, my work has focused on characterizing the changing dynamics of species-ecosystem interactions to support improved stock assessment and management, specifically for Northern Quahog *Mercenaria mercenaria* and Winter Flounder *Pseudopleuronectes americanus*.
+
+See my [research page](https://bryanpgalligan.github.io/research) for more detail.
 
 ## Education
 

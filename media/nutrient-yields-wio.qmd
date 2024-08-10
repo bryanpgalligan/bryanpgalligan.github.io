@@ -1,0 +1,12 @@
+---
+title: "Nutrition lost to overfishing estimated in the Western Indian Ocean"
+subtitle: "WIOMSA Newsbrief"
+author: "Tim McClanahan"
+date: "3/1/2024"
+---
+
+![](media-files/nutrient-yields-wio.jpg)
+
+Recent advances in estimating the nutrition of fish at the species level have created the possibility of managing fisheries to maximize nutrient delivery. Combining this information with large-scale estimates of fish production by artificial intelligence algorithms has now allowed for estimates of nutrient delivery. These estimates suggest that nutrient production is influenced by fish species and body sizes and that maximizing sustained yield production is the best way to increase nutrient delivery.
+
+Read the full summary [here](https://blog.wiomsa.net/wp-content/uploads/2024/04/WIOMSA-March-2024-Newsbrief.pdf#page=27.06).
