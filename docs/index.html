@@ -2,7 +2,7 @@
 <html xmlns="http://www.w3.org/1999/xhtml" lang="en" xml:lang="en"><head>
 
 <meta charset="utf-8">
-<meta name="generator" content="quarto-1.4.555">
+<meta name="generator" content="quarto-1.5.57">
 
 <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes">
 
@@ -86,7 +86,7 @@ ul.task-list li input[type="checkbox"] {
     </a>
   </div>
             <div id="quarto-search" class="" title="Search"></div>
-          <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarCollapse" aria-controls="navbarCollapse" aria-expanded="false" aria-label="Toggle navigation" onclick="if (window.quartoToggleHeadroom) { window.quartoToggleHeadroom(); }">
+          <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarCollapse" aria-controls="navbarCollapse" role="menu" aria-expanded="false" aria-label="Toggle navigation" onclick="if (window.quartoToggleHeadroom) { window.quartoToggleHeadroom(); }">
   <span class="navbar-toggler-icon"></span>
 </button>
           <div class="collapse navbar-collapse" id="navbarCollapse">
@@ -105,7 +105,7 @@ ul.task-list li input[type="checkbox"] {
   </li>  
 </ul>
           </div> <!-- /navcollapse -->
-          <div class="quarto-navbar-tools">
+            <div class="quarto-navbar-tools">
 </div>
       </div> <!-- /container-fluid -->
     </nav>
@@ -116,7 +116,7 @@ ul.task-list li input[type="checkbox"] {
 <!-- margin-sidebar -->
     
 <!-- main -->
-<div class="quarto-about-solana column-body content">
+<div class="quarto-about-solana column-body">
   <div class="about-entity">
     <div class="entity-contents">
       <header id="title-block-header" class="quarto-title-block default">
@@ -148,12 +148,14 @@ ul.task-list li input[type="checkbox"] {
   </a>
 </div>
       <div class="about-contents"><main class="content" id="quarto-document-content">
-<p>Welcome! I am a Jesuit scholastic and marine scientist with a background in fisheries ecology and social ethics. My interests include coral reef fisheries, climate change adaptation, and their intersections with human health and well being, especially food security and nutrition.</p>
+<p>Welcome! I am a Jesuit scholastic and fisheries scientist interested in coastal ecosystems and food security. Click <a href="./publications.html">here</a> for a list of my recent publications and <a href="./media.html">here</a> for media coverage of me and my work.</p>
+<p>Most of my scholarly effort is directed towards the development of sustainable marine fisheries that provide sufficient nutritious food to the poor. This line of inquiry is inspired by my Catholic faith and Ignatian spirituality, which find the wonder of God in all things, seek to achieve justice for humans and nature, and value interdisciplinary perspectives and dialogue.</p>
 <p>To find out more about the Jesuits, including our training process and the types of work we do, click <a href="https://beajesuit.org/about/the-society-of-jesus/">here</a>.</p>
 <section id="research" class="level2">
 <h2 data-anchor-id="research">Research</h2>
 <p>In the Western Indian Ocean, I study the ecology, management, and governance of artisanal coral reef fisheries. This work has included a strong focus on the production of nutrients for human consumption and on management approaches designed to support the food security and nutrition of coastal communities.</p>
-<p>In the northeastern United States, my work has focused on characterizing the changing dynamics of species-ecosystem interactions to support improved stock assessment and management, specifically for Northern Quahog <em>Mercenaria mercenaria</em> and Winter Flounder <em>Pseudopleuronectes americanus</em>.</p>
+<p>I have also studied commercial fisheries in the northeastern United States, where my work has focused on characterizing the changing dynamics of species-ecosystem interactions to support improved stock assessment and management.</p>
+<p>I periodically write about marine policy and governance from a social justice perspective.</p>
 </section>
 <section id="education" class="level2">
 <h2 data-anchor-id="education">Education</h2>
@@ -174,7 +176,7 @@ Research and Policy Analyst | Aug 2021 – Jul 2023</p>
 <p><strong>Canisius High School</strong> | Buffalo, NY<br>
 Biology Teacher | Jan 2016 – Jun 2017</p>
 <p><strong>Rhode Island Division of Marine Fisheries</strong> | Jamestown, RI<br>
-Research Assistant | Jun 2015 – Nov 2015</p>
+Seasonal Researcher | Jun 2015 – Nov 2015</p>
 
 
 </section>
@@ -213,18 +215,7 @@ window.document.addEventListener("DOMContentLoaded", function (event) {
     }
     return false;
   }
-  const clipboard = new window.ClipboardJS('.code-copy-button', {
-    text: function(trigger) {
-      const codeEl = trigger.previousElementSibling.cloneNode(true);
-      for (const childEl of codeEl.children) {
-        if (isCodeAnnotation(childEl)) {
-          childEl.remove();
-        }
-      }
-      return codeEl.innerText;
-    }
-  });
-  clipboard.on('success', function(e) {
+  const onCopySuccess = function(e) {
     // button target
     const button = e.trigger;
     // don't keep focus
@@ -256,7 +247,29 @@ window.document.addEventListener("DOMContentLoaded", function (event) {
     }, 1000);
     // clear code selection
     e.clearSelection();
+  }
+  const getTextToCopy = function(trigger) {
+      const codeEl = trigger.previousElementSibling.cloneNode(true);
+      for (const childEl of codeEl.children) {
+        if (isCodeAnnotation(childEl)) {
+          childEl.remove();
+        }
+      }
+      return codeEl.innerText;
+  }
+  const clipboard = new window.ClipboardJS('.code-copy-button:not([data-in-quarto-modal])', {
+    text: getTextToCopy
   });
+  clipboard.on('success', onCopySuccess);
+  if (window.document.getElementById('quarto-embedded-source-code-modal')) {
+    // For code content inside modals, clipBoardJS needs to be initialized with a container option
+    // TODO: Check when it could be a function (https://github.com/zenorocha/clipboard.js/issues/860)
+    const clipboardModal = new window.ClipboardJS('.code-copy-button[data-in-quarto-modal]', {
+      text: getTextToCopy,
+      container: window.document.getElementById('quarto-embedded-source-code-modal')
+    });
+    clipboardModal.on('success', onCopySuccess);
+  }
     var localhostRegex = new RegExp(/^(?:http|https):\/\/localhost\:?[0-9]*\//);
     var mailtoRegex = new RegExp(/^mailto:/);
       var filterRegex = new RegExp('/' + window.location.host + '/');
@@ -264,7 +277,7 @@ window.document.addEventListener("DOMContentLoaded", function (event) {
         return filterRegex.test(href) || localhostRegex.test(href) || mailtoRegex.test(href);
     }
     // Inspect non-navigation links and adorn them if external
- 	var links = window.document.querySelectorAll('a[href]:not(.nav-link):not(.navbar-brand):not(.toc-action):not(.sidebar-link):not(.sidebar-item-toggle):not(.pagination-link):not(.no-external):not([aria-hidden]):not(.dropdown-item):not(.quarto-navigation-tool)');
+ 	var links = window.document.querySelectorAll('a[href]:not(.nav-link):not(.navbar-brand):not(.toc-action):not(.sidebar-link):not(.sidebar-item-toggle):not(.pagination-link):not(.no-external):not([aria-hidden]):not(.dropdown-item):not(.quarto-navigation-tool):not(.about-link)');
     for (var i=0; i<links.length; i++) {
       const link = links[i];
       if (!isInternal(link.href)) {

@@ -21,7 +21,9 @@ about:
       href: mailto:bgalligan@jesuits.org
 ---
 
-Welcome! I am a Jesuit scholastic and marine scientist with a background in fisheries ecology and social ethics. My interests include coral reef fisheries, climate change adaptation, and their intersections with human health and well being, especially food security and nutrition.
+Welcome! I am a Jesuit scholastic and fisheries scientist interested in coastal ecosystems and food security. Click [here](publications.qmd) for a list of my recent publications and [here](media.qmd) for media coverage of me and my work.
+
+Most of my scholarly effort is directed towards the development of sustainable marine fisheries that provide sufficient nutritious food to the poor. This line of inquiry is inspired by my Catholic faith and Ignatian spirituality, which find the wonder of God in all things, seek to achieve justice for humans and nature, and value interdisciplinary perspectives and dialogue.
 
 To find out more about the Jesuits, including our training process and the types of work we do, click [here](https://beajesuit.org/about/the-society-of-jesus/).
 
@@ -29,7 +31,9 @@ To find out more about the Jesuits, including our training process and the types
 
 In the Western Indian Ocean, I study the ecology, management, and governance of artisanal coral reef fisheries. This work has included a strong focus on the production of nutrients for human consumption and on management approaches designed to support the food security and nutrition of coastal communities.
 
-In the northeastern United States, my work has focused on characterizing the changing dynamics of species-ecosystem interactions to support improved stock assessment and management, specifically for Northern Quahog *Mercenaria mercenaria* and Winter Flounder *Pseudopleuronectes americanus*.
+I have also studied commercial fisheries in the northeastern United States, where my work has focused on characterizing the changing dynamics of species-ecosystem interactions to support improved stock assessment and management.
+
+I periodically write about marine policy and governance from a social justice perspective.
 
 ## Education
 
@@ -55,4 +59,4 @@ Research and Policy Analyst | Aug 2021 -- Jul 2023
 Biology Teacher | Jan 2016 -- Jun 2017
 
 **Rhode Island Division of Marine Fisheries** | Jamestown, RI\
-Research Assistant | Jun 2015 -- Nov 2015
+Seasonal Researcher | Jun 2015 -- Nov 2015
