@@ -1,35 +1,40 @@
 ---
-title: "My Research"
+title: "My Work"
 bibliography: data-files/references.bib
 csl: data-files/apa.csl
 citation-location: margin
+#fig-cap-location: margin
 ---
+My interest in the intersection between marine ecosystems and aquatic food systems is a product of my desire to ask and answer ecological questions that have practical importance for coastal people and ecosystems. Most of my work focuses on understanding how environmental influences and management decisions drive (1) population and community ecology in marine systems and (2) the quantity and quality of food production from fisheries. My published work includes studies on commercial fisheries in the northeastern United States, artisanal coral reef fisheries in East Africa and the Western Indian Ocean, and the global governance of marine biodiversity and livelihoods.
 
+## Research Themes
 
+### The production of dietary nutrients for human consumption
 
-## Coral reef fisheries in the Western Indian Ocean
+As the only globally significant source of food production derived from wild ecosystems, marine fisheries are remarkably heterogeneous in terms of the quantity and quality of food they can provide. Most of my work on coral reef ecosystems has included an emphasis on quantifying fishery production in a way that is meaningful for nutrition and public health while also understanding how to better design nutrition-sensitive management strategies within the bounds of sustainability [e.g., @galligan2024b].
 
-Coral reefs support millions of fishers and provide ecosystem services such as food production and shoreline protection to over a billion people, most in tropical developing countries. Since 2021, I have studied the relationship between fishery management, ecological function, and the production of dietary nutrients and biomass in the artisanal coral reef fisheries of the Western Indian Ocean. In Kenya, we found that traditional management measures, such as gear modification and length-based approaches, are associated with higher nutrient yields in unselective coral reef fisheries [@galligan2022; @galligan2024]. We also studied the the factors that drive nutrient composition of fish catches across the Western Indian Ocean and how these can be leveraged by managers to support the health of coastal populations [@galligan2024b]. My current work investigates the recovery rates of fish communities after the implementation of fishery closures.
+![Boats pulled up at a seasonal fishing camp in Lamu, Kenya](data-files/fishingcamplamu.jpg){width=80%}
 
-![Boats pulled up at a seasonal fishing camp in Lamu, Kenya](data-files/fishingcamplamu.jpg)
+### The impacts of environmental change and management on fishery ecosystems
 
-## Commercial fisheries in Rhode Island, U.S.A.
+Unprecedented levels of anthropogenic pressures such as climate change, overfishing, and eutrophication have created significant uncertainty regarding the futures of coastal ecosystems and fisheries, sometimes transforming ecosystem dynamics in counterintuitive or unanticipated ways. At the same time, management decisions seeking to mitigate or adapt to these pressures can also lead to unintended consequences. By combining environmental and ecological datasets, I have studied the impacts of wastewater treatment on northern quahogs (*Mercenaria mercenaria*) in Narragansett Bay, the failure of steep reductions in fishing effort to secure the recovery of winter flounder (*Pseudopleuronectes americanus*) in southern Rhode Island, and the effectiveness of management strategies such as balanced harvest and gear modification on Kenyan coral reefs [e.g., @galligan2022b].
 
-The estuarine and marine ecosystems of Rhode Island, U.S.A., are undergoing profound shifts due to climate change, improved nutrient management, and rapidly evolving commercial fisheries. The combination of environmental change with the availability of several long-term data sets makes this region a fascinating natural laboratory. With researchers at the Rhode Island Division of Marine Fisheries, I investigated relationships between water quality and Narragansett Bay Quahog *Mercenaria mercenaria* abundance. We found evidence that reduced hypoxia has made juvenile clams more vulnerable to predators, leading to smaller cohorts and lower recruitment in areas where hypoxic refugia have diminished [@galligan2022b]. I currently have active projects studying both Quahogs and Winter Flounder *Pseudopleuronectes americanus*.
+![One of southern New England's many coastal bird species, the double-crested cormorant (*Phalacrocorax auritus*)](data-files/cormorant.jpg){width=60%}
 
-::: {layout-ncol=2}
+### Management and policy solutions for sustainability and justice in coastal communities
 
-![Shell from a northern quahog (*Mercenaria mercenaria*)](data-files/quahog.jpeg)
+Governments must act to restore and protect marine biodiversity while also securing the rights of coastal people, but power relations and technical challenges present significant obstacles to improved governance. Scientific research alone is not enough. I have thus worked to combine my scientific expertise with ethical reflection on concrete policy options to inform global and local governance of coastal ecosystems and food systems [e.g. @galligan2024c]. Beyond scholarly articles, I have also engaged in policy advocacy in various fora, including the United Nations Framework Convention on Climate Change.
 
-![A quahog predator not included in our study, the ring-billed gull (*Larus delawarensis*)](data-files/narragansettgull.jpg)
-:::
+![Conducting a community consultation in Malindi, Kenya](data-files/malindi.jpeg){width=80%}
 
-## Science, ethics, and theology
+## Jesuit Identity
 
-As a Jesuit in formation to be a Catholic priest, I am deeply inspired by the thought of Pope Francis, who writes [-@francis2015, no. 139]:
+The Society of Jesus (Jesuits) is the largest men’s religious order in the Catholic Church, and we are known for our unique blend of spirituality and learning. As a Jesuit in formation to be a priest, I am committed to the service of faith and the promotion of justice, seeking the reconciliation of God, human beings, and all of creation. This brings with it a commitment to accompany those on the margins of society, and to collaborate with all members of the human family in a spirit of welcome and dialogue. To find out more about the Jesuits, including our training process and the types of work we do, click [here](https://vocations.jesuits.global/).
 
-> "We are faced not with two separate crises, one environmental and the other social, but rather with one complex crisis which is both social and environmental. Strategies for a solution demand an integrated approach to combating poverty, restoring dignity to the excluded, and at the same time protecting nature."
+Two Catholic theological frameworks have profoundly shaped how and why I carry out my research:
 
-My own "integrated approach" has meant incorporating ethical reflection and policy advocacy alongside scientific research. It also motivates me to work with marginalized communities and produce the kinds of knowledge that will serve their needs. For a full explanation of what integral ecology can look like as a research method, see the briefing note I developed in collaboration with a colleague at the [Laudato Si' Research Institute](https://lsri.campion.ox.ac.uk/) at the University of Oxford [@zepeda2023]. In the past, I have worked to put fisheries law and policy in conversation with social ethics [@galligan2021; @galligan2024c]. My upcoming work in this area will unpack biblical perspectives on ecology and food.
+-   **Integral ecology** was proposed by Pope Francis in 2015 as a way to see and respond to the intersecting global crises of environmental degradation and social injustice. It pays special attention to “the cry of the earth and the cry of the poor,” is oriented towards systemic change, and is grounded in spiritual, ethical, and theological values [@francis2015, 49].
+
+-   The theologian Elizabeth A. Johnson, C.S.J., proposes the **community of creation** as a guiding norm and worldview for Christians, a biblical paradigm “based on the understanding that humans and other living beings, for all their differences, form one community woven together by the common thread of having been created by God” [@johnson2014, 261].
 
 ![The four intersecting lenses of integral ecology, based on *Laudato si'*](data-files/integralecology.png){width=85% fig-align="left"}

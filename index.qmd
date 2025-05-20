@@ -4,9 +4,6 @@ about:
   template: solana
   image: data-files/portrait.jpg
   links:
-    - icon: twitter-x
-      text: X
-      href: https://twitter.com/galligan_sj
     - icon: github
       text: Github
       href: https://github.com/bryanpgalligan
@@ -19,44 +16,35 @@ about:
     - icon: envelope-fill
       text: Email
       href: mailto:bgalligan@jesuits.org
+bibliography: data-files/references.bib
+csl: data-files/apa.csl
+citation-location: margin
 ---
 
-I am a Jesuit scholastic and marine scientist working at the intersection of fisheries and food security. Click [here](publications.qmd) for a list of my recent publications and [here](media.qmd) for media coverage of me and my work.
-
-Most of my scholarly effort is directed towards the development of sustainable marine fisheries that provide food and nutrition security to tropical coastal communities. This line of inquiry is inspired by my Catholic faith and Ignatian spirituality, which find the wonder of God in all things, seek to achieve justice for humans and nature, and value interdisciplinary perspectives and dialogue.
-
-To find out more about the Jesuits, including our training process and the types of work we do, click [here](https://beajesuit.org/about/the-society-of-jesus/).
-
-## Research
-
-In the Western Indian Ocean, I study the ecology, management, and governance of artisanal coral reef fisheries. This work has included a strong focus on the production of nutrients for human consumption and on management approaches designed to support the food security and nutrition of coastal communities.
-
-I have also studied commercial fisheries in the northeastern United States, where my work has focused on characterizing the changing dynamics of species-ecosystem interactions to support improved stock assessment and management.
-
-I periodically write about marine policy and governance from a social justice perspective.
+Welcome! I am a Jesuit scholastic and marine scientist interested in sustainable fisheries and aquatic food systems. While remaining rooted in the discipline and techniques of marine fisheries ecology, I also seek to collaborate and work across disciplines to create a future that is environmentally sustainable and socially just.
 
 ## Education
 
-**Boston College** | Boston, MA\
-ThM in Biblical Studies | Aug 2024 -- present\
-MDiv in Theology and Ministry | Aug 2023 -- present
+**Boston College** \| Boston, MA\
+ThM in Biblical Studies \| Aug 2024 -- present\
+MDiv in Theology and Ministry \| Aug 2023 -- present
 
-**Loyola University Chicago** | Chicago, IL\
-MA in Social Philosophy | Aug 2019 -- May 2021
+**Loyola University Chicago** \| Chicago, IL\
+MA in Social Philosophy \| Aug 2019 -- May 2021
 
-**Fordham University** | Bronx, NY\
-BS in Biology and Theology | Aug 2011 -- May 2015
+**Fordham University** \| Bronx, NY\
+BS in Biology and Theology \| Aug 2011 -- May 2015
 
 ## Professional Appointments
 
-**Loyola University Chicago** | Chicago, IL\
-Visiting Scholar, Biology Department | Aug 2021 -- present
+**Loyola University Chicago** \| Chicago, IL\
+Visiting Scholar, Biology Department \| Aug 2021 -- present
 
-**Jesuit Justice and Ecology Network Africa** | Nairobi, KE\
-Research and Policy Analyst | Aug 2021 -- Jul 2023
+**Jesuit Justice and Ecology Network Africa** \| Nairobi, KE\
+Research and Policy Analyst \| Aug 2021 -- Jul 2023
 
-**Canisius High School** | Buffalo, NY\
-Biology Teacher | Jan 2016 -- Jun 2017
+**Canisius High School** \| Buffalo, NY\
+Biology Teacher \| Jan 2016 -- Jun 2017
 
-**Rhode Island Division of Marine Fisheries** | Jamestown, RI\
-Seasonal Researcher | Jun 2015 -- Nov 2015
+**Rhode Island Division of Marine Fisheries** \| Jamestown, RI\
+Seasonal Researcher \| Jun 2015 -- Nov 2015
