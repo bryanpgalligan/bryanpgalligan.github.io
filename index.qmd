@@ -21,7 +21,7 @@ csl: data-files/apa.csl
 citation-location: margin
 ---
 
-Welcome! I am a Jesuit scholastic and marine scientist interested in sustainable fisheries and aquatic food systems. While remaining rooted in the discipline and techniques of marine fisheries ecology, I also seek to collaborate and work across disciplines to create a future that is environmentally sustainable and socially just.
+Welcome! I am a [Jesuit](research.qmd#sec-jesuit) scholastic and marine scientist interested in sustainable fisheries and aquatic food systems. While remaining rooted in the discipline and techniques of marine fisheries ecology, I also seek to collaborate and work across disciplines to create a future that is environmentally sustainable and socially just.
 
 ## Education
 

@@ -23,13 +23,13 @@ Unprecedented levels of anthropogenic pressures such as climate change, overfish
 
 ### Management and policy solutions for sustainability and justice in coastal communities
 
-Governments must act to restore and protect marine biodiversity while also securing the rights of coastal people, but power relations and technical challenges present significant obstacles to improved governance. Scientific research alone is not enough. I have thus worked to combine my scientific expertise with ethical reflection on concrete policy options to inform global and local governance of coastal ecosystems and food systems [e.g. @galligan2024c]. Beyond scholarly articles, I have also engaged in policy advocacy in various fora, including the United Nations Framework Convention on Climate Change.
+Governments must act to restore and protect marine biodiversity while also securing the rights of coastal people, but power relations and technical challenges present significant obstacles to improved governance. I have thus worked to combine my scientific expertise with ethical reflection on concrete policy options to inform global and local governance of coastal ecosystems and food systems [e.g. @galligan2024c]. Beyond scholarly articles, I have also engaged in policy advocacy in various fora, including the United Nations Framework Convention on Climate Change.
 
 ![Conducting a community consultation in Malindi, Kenya](data-files/malindi.jpeg){width=80%}
 
-## Jesuit Identity
+## Jesuit Identity {#sec-jesuit}
 
-The Society of Jesus (Jesuits) is the largest men’s religious order in the Catholic Church, and we are known for our unique blend of spirituality and learning. As a Jesuit in formation to be a priest, I am committed to the service of faith and the promotion of justice, seeking the reconciliation of God, human beings, and all of creation. This brings with it a commitment to accompany those on the margins of society, and to collaborate with all members of the human family in a spirit of welcome and dialogue. To find out more about the Jesuits, including our training process and the types of work we do, click [here](https://vocations.jesuits.global/).
+The Society of Jesus (Jesuits) is the largest men’s religious order in the Catholic Church, and we are known for our unique blend of spirituality and learning. As a Jesuit in formation to be a priest, I am committed to the service of faith and the promotion of justice, and to working for the reconciliation of God, human beings, and all of creation. This brings with it a commitment to accompany those on the margins of society, and to collaborate with all members of the human family in a spirit of welcome and dialogue. To find out more about the Jesuits, including our training process and the types of work we do, click [here](https://vocations.jesuits.global/).
 
 Two Catholic theological frameworks have profoundly shaped how and why I carry out my research:
 
