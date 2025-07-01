@@ -6,7 +6,7 @@ title: "Published Works"
 
 #### 2025
 
-**Galligan, B. P.**, McManus, M. C., & Balouskus, R. G. Drivers of Winter Flounder subpopulation catch rates in a fisheries-independent fixed gear survey. *Transactions of the American Fisheries Society*, in press. [request pdf](mailto:bgalligan@jesuits.org)
+**Galligan, B. P.**, McManus, M. C., & Balouskus, R. G. Drivers of Winter Flounder subpopulation catch rates in a fisheries-independent fixed gear survey. *Transactions of the American Fisheries Society*, in press. [doi](https://doi.org/10.1093/tafafs/vnaf022) [pdf](data-files/galliganetal2025.pdf) [data](https://doi.org/10.5281/zenodo.14224683)
 
 #### 2024
 
