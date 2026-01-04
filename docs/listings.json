@@ -23,5 +23,13 @@
       "/media/acd.html",
       "/media/need-more-funds.html"
     ]
+  },
+  {
+    "listing": "/publications.html",
+    "items": [
+      "/publications/wfl-fyke-catchability.html",
+      "/publications/nutrient-yields-wio.html",
+      "/publications/sp-fishes.html"
+    ]
   }
 ]

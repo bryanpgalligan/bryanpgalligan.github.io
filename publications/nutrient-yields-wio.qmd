@@ -1,0 +1,14 @@
+---
+title: "Tropical fishery nutrient production depends on biomass-based management"
+subtitle: "iScience"
+author: "Galligan & McClanahan"
+date: "4/19/2024"
+---
+
+![Density of six nutrients in fish muscle tissue as percentage of the recommended dietary reference intake for a child 1–3 years old based on a 100 g daily consumption. Nutrient densities were derived from an estimated standard catch composition for each jurisdiction based on reconstructed small-scale catches from the Sea Around Us database and, where available, national catch statistics and landing site monitoring data. Some variation is expected to exist within each jurisdiction.](publications-files/nutrient-yields-wio.jpg)
+
+## Abstract
+
+The need to enhance nutrient production from tropical ecosystems to feed the poor could potentially create a new framework for fisheries science and management. Early recommendations have included targeting small fishes and increasing the species richness of fish catches, which could represent a departure from more traditional approaches such as biomass-based management. To test these recommendations, we compared the outcomes of biomass-based management with hypothesized factors influencing nutrient density in nearshore artisanal fish catches in the Western Indian Ocean. We found that enhancing nutrient production depends primarily on achieving biomass-based targets. Catches dominated by low- and mid-trophic level species with smaller body sizes and faster turnover were associated with modest increases in nutrient densities, but the variability in nutrient density was small relative to human nutritional requirements. Therefore, tropical fishery management should focus on restoring biomass to achieve maximum yields and sustainability, particularly for herbivorous fishes.
+
+Access the full article [here](https://doi.org/10.1016/j.isci.2024.109420).

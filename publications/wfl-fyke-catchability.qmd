@@ -1,0 +1,28 @@
+---
+title: "Drivers of Winter Flounder subpopulation catch rates in a fisheries-independent fixed gear survey"
+subtitle: "Transactions of the American Fisheries Society"
+author: "Galligan et al."
+date: "7/1/2025"
+---
+
+![Accumulated local effects of selected variables on Winter Flounder occurrence (classification) and abundance (regression). The rug on each plot represents the distribution of training data for each predictor, indicating over what ranges the model predictions are most reliable.](publications-files/wfl-fyke-catchability.png)
+
+## Abstract
+
+### Objective
+
+This study seeks to better understand the behavior and abundance of Winter Flounder *Pseudopleuronectes americanus* in subpopulations from three coastal ponds by evaluating catch rates in a fixed-gear survey and accounting for catchability considerations to calculate an abundance index.
+
+### Methods
+
+We modeled Winter Flounder catch rates as a function of environmental and sampling factors for a fyke-net survey conducted in three Rhode Island salt ponds over 25 years. The survey deployed fyke nets throughout the winter spawning season in Point Judith Pond, Potter Pond, and Ninigret Pond beginning in the winter of 1998--1999. Sampling variables (e.g., location, soak period) and environmental variables (e.g., water temperature, precipitation) were either collected during the survey or compiled from external sources. Random forest models were used to predict relationships between candidate predictors and the occurrence and abundance of Winter Flounder in the catch.
+
+### Results
+
+Seasonality (day of year) was strongly predictive of Winter Flounder capture, while most environmental variables were not, suggesting consistently timed migration and spawning movements that do not respond to environmental cues. Water temperature predicted abundance but not occurrence, consistent with previous observations of behavioral adaptations but not taxis during cold periods.
+
+### Conclusions
+
+The decoupling of environmental parameters from Winter Flounder catch rates suggests that behavioral rigidity in breeding adults may contribute to this species’ lack of recovery. Improved abundance predictions suggest a continued decline for Rhode Island Winter Flounder.
+
+Access the full article [here](https://doi.org/10.1093/tafafs/vnaf022).

@@ -1,6 +1,20 @@
 ---
-title: "Published Works"
+title: "Research"
+listing:
+  id: pubs-listing
+  contents: publications
+  sort: "date desc"
+  type: grid
+  page-size: 3
+  fields: [title, subtitle, author, date, description, image]
 ---
+
+Explore some of my recent publications here. A comprehensive list of my scholarly work is available below.
+
+## Featured
+
+:::{#pubs-listing}
+:::
 
 ## Peer-reviewed publications
 

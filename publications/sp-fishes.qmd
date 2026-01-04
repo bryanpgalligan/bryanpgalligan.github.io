@@ -1,0 +1,14 @@
+---
+title: "Nutrition contributions of coral reef fisheries not enhanced by capture of small fish"
+subtitle: "Ocean & Coastal Management"
+author: "Galligan & McClanahan"
+date: "3/1/2024"
+---
+
+![Summary of catch data from Kenya's nearshore artisanal fisheries 2001–2021. (A) Length at maturity (Lmat) and mean length at capture for 249 species. Point size represents the percent of landings by mass accounted for by each species, with the top four species labeled. Point color represents the nutrient density of each species for the six nutrients included here, with a possible range of 0–600%. (B) Landings accounted for by the 15 most captured species (% by mass). Point color represents food source (benthic or pelagic) while point size and darkness indicate nutrient density with a possible range of 0–600%.](publications-files/sp-fishes.jpg)
+
+## Abstract
+
+Recent policy recommendations have highlighted the nutritional benefits of fisheries that capture small finfish species. Small fish, particularly those that feed in the pelagic zone, tend to be more nutrient dense than larger species, with increased concentrations of calcium, zinc, and omega-3 fatty acids. However, capturing fish below some recommended size limit (i.e., length at first maturity = Lmat) in coral reefs is frequently considered to be unsustainable and associated with reduced yields and losses of ecosystem functions. To evaluate the potential effects of fish body size, we analyzed nutrient concentrations of 424 demersal and pelagic finfish species reported from Western Indian Ocean artisanal fisheries. We found that length and food source are associated with only small differences in nutrient density in the artisanal catches of this region (≤7% of a child's daily requirement in most cases). We also analyzed 20 years of catch monitoring data from Kenya, where many of the common species have Lmat ∼20–25 cm, to test the potential benefits and tradeoffs of capturing small fishes. Small capture sizes were associated with low yields and sexually immature catches with a mean length of 15 cm resulting in 38% lower catch per unit effort, 37% lower nutrient yield, and a 22% lower maturity index compared to a mean body length of 30 cm. Catches of undersized fish were not associated with substantial increases or decreases in nutrient content relative to human nutritional requirements. Thus, coral reef artisanal fisheries should target moderate to large fishes (>20 cm) to maximize overall yield, nutrient yield, and sustainability.
+
+Access the full article [here](https://doi.org/10.1016/j.ocecoaman.2023.107011).
