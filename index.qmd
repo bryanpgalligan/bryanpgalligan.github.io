@@ -1,8 +1,8 @@
 ---
 title: "Bryan P. Galligan, S.J."
 about:
-  template: solana
-  image: data-files/portrait.jpg
+  template: broadside
+  image: data-files/portrait2.jpeg
   links:
     - icon: github
       text: Github
@@ -10,7 +10,7 @@ about:
     - icon: linkedin
       text: LinkedIn
       href: https://www.linkedin.com/in/bryan-p-galligan-sj-338380a7/
-    - icon: google
+    - icon: mortarboard-fill
       text: Google Scholar
       href: https://scholar.google.com/citations?user=AlTWV7UAAAAJ&hl=en
     - icon: envelope-fill
@@ -21,7 +21,7 @@ csl: data-files/apa.csl
 citation-location: margin
 ---
 
-Welcome! I am a Jesuit deacon and marine scientist interested in sustainable fisheries and aquatic food systems. My research studies the connections between marine ecosystems, small-scale fisheries, and public health nutrition in order to create impact for communities and policy. Most of my work focuses on understanding how environmental influences and management decisions drive (1) population and community ecology in marine systems and (2) the quantity and quality of food production from fisheries. My published work includes studies on commercial fisheries in the northeastern United States, artisanal coral reef fisheries in East Africa and the Western Indian Ocean, and the global governance of marine biodiversity and livelihoods.
+Welcome! I am a Jesuit deacon and marine scientist working at the intersection of sustainable fisheries and aquatic food systems. My research studies the connections between marine ecosystems, small-scale fisheries, and public health nutrition in order to create impact for communities and policy, both in the Western Indian Ocean and the northeastern United States. Most of my work focuses on understanding how environmental influences and management decisions drive population and community ecology in marine systems, and how they affect the quantity and nutritional quality of fish catches. I also write about the ethical dimensions of ocean governance with a focus on human rights and social justice.
 
 ## Education
 

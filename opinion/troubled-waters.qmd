@@ -1,5 +1,5 @@
 ---
-title: "Troubled Waters"
+title: "Troubled waters"
 subtitle: "Commonweal"
 author: "Bryan P. Galligan, S.J."
 date: "8/29/2021"

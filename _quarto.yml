@@ -14,12 +14,10 @@ website:
         text: Opinion
       - href: media.qmd
         text: Media
-  twitter-card:
-    site: "@galligan_sj"
 
 format:
   html:
-    theme: journal
+    theme: flatly
     css: styles.css
     toc: FALSE
 
