@@ -21,7 +21,7 @@ csl: data-files/apa.csl
 citation-location: margin
 ---
 
-Welcome! I am a [Jesuit](research.qmd#sec-jesuit) deacon and marine scientist interested in sustainable fisheries and aquatic food systems. My research focuses on understanding and leveraging the connections between marine ecosystems, small-scale fisheries, and public health nutrition to create a future that is environmentally sustainable and socially just.
+Welcome! I am a Jesuit deacon and marine scientist interested in sustainable fisheries and aquatic food systems. My research studies the connections between marine ecosystems, small-scale fisheries, and public health nutrition in order to create impact for communities and policy. Most of my work focuses on understanding how environmental influences and management decisions drive (1) population and community ecology in marine systems and (2) the quantity and quality of food production from fisheries. My published work includes studies on commercial fisheries in the northeastern United States, artisanal coral reef fisheries in East Africa and the Western Indian Ocean, and the global governance of marine biodiversity and livelihoods.
 
 ## Education
 

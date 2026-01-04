@@ -1,0 +1,9 @@
+---
+title: "Opinion and Analysis"
+listing:
+  contents: opinion
+  sort: "date desc"
+  type: default
+---
+
+In addition to my scholarly research, I sometimes write for a more popular audience. This page serves as a home for that work.

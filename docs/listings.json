@@ -1,5 +1,17 @@
 [
   {
+    "listing": "/opinion.html",
+    "items": [
+      "/opinion/laudate-deum.html",
+      "/opinion/sudan.html",
+      "/opinion/taking-sides.html",
+      "/opinion/troubled-waters.html",
+      "/opinion/seaspiracy.html",
+      "/opinion/genocide.html",
+      "/opinion/amazon.html"
+    ]
+  },
+  {
     "listing": "/media.html",
     "items": [
       "/media/iess.html",

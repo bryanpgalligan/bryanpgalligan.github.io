@@ -8,10 +8,10 @@ website:
     right:
       - href: index.qmd
         text: Home
-      - href: research.qmd
-        text: About
       - href: publications.qmd
-        text: Publications
+        text: Scholarship
+      - href: opinion.qmd
+        text: Opinion
       - href: media.qmd
         text: Media
   twitter-card:

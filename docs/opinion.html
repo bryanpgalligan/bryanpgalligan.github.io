@@ -6,10 +6,8 @@
 
 <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes">
 
-<meta name="author" content="Caroline Ferguson">
-<meta name="dcterms.date" content="2023-06-04">
 
-<title>Bryan Galligan, S.J., on faith, solidarity, white saviorism, and justice – Bryan P. Galligan, S.J.</title>
+<title>Opinion and Analysis – Bryan P. Galligan, S.J.</title>
 <style>
 code{white-space: pre-wrap;}
 span.smallcaps{font-variant: small-caps;}
@@ -25,24 +23,26 @@ ul.task-list li input[type="checkbox"] {
 </style>
 
 
-<script src="../site_libs/quarto-nav/quarto-nav.js"></script>
-<script src="../site_libs/quarto-nav/headroom.min.js"></script>
-<script src="../site_libs/clipboard/clipboard.min.js"></script>
-<script src="../site_libs/quarto-search/autocomplete.umd.js"></script>
-<script src="../site_libs/quarto-search/fuse.min.js"></script>
-<script src="../site_libs/quarto-search/quarto-search.js"></script>
-<meta name="quarto:offset" content="../">
-<script src="../site_libs/quarto-html/quarto.js" type="module"></script>
-<script src="../site_libs/quarto-html/tabsets/tabsets.js" type="module"></script>
-<script src="../site_libs/quarto-html/axe/axe-check.js" type="module"></script>
-<script src="../site_libs/quarto-html/popper.min.js"></script>
-<script src="../site_libs/quarto-html/tippy.umd.min.js"></script>
-<script src="../site_libs/quarto-html/anchor.min.js"></script>
-<link href="../site_libs/quarto-html/tippy.css" rel="stylesheet">
-<link href="../site_libs/quarto-html/quarto-syntax-highlighting-587c61ba64f3a5504c4d52d930310e48.css" rel="stylesheet" id="quarto-text-highlighting-styles">
-<script src="../site_libs/bootstrap/bootstrap.min.js"></script>
-<link href="../site_libs/bootstrap/bootstrap-icons.css" rel="stylesheet">
-<link href="../site_libs/bootstrap/bootstrap-5348f60334dd04cbc36623d8010fff4a.min.css" rel="stylesheet" append-hash="true" id="quarto-bootstrap" data-mode="light">
+<script src="site_libs/quarto-nav/quarto-nav.js"></script>
+<script src="site_libs/quarto-nav/headroom.min.js"></script>
+<script src="site_libs/clipboard/clipboard.min.js"></script>
+<script src="site_libs/quarto-search/autocomplete.umd.js"></script>
+<script src="site_libs/quarto-search/fuse.min.js"></script>
+<script src="site_libs/quarto-search/quarto-search.js"></script>
+<meta name="quarto:offset" content="./">
+<script src="site_libs/quarto-listing/list.min.js"></script>
+<script src="site_libs/quarto-listing/quarto-listing.js"></script>
+<script src="site_libs/quarto-html/quarto.js" type="module"></script>
+<script src="site_libs/quarto-html/tabsets/tabsets.js" type="module"></script>
+<script src="site_libs/quarto-html/axe/axe-check.js" type="module"></script>
+<script src="site_libs/quarto-html/popper.min.js"></script>
+<script src="site_libs/quarto-html/tippy.umd.min.js"></script>
+<script src="site_libs/quarto-html/anchor.min.js"></script>
+<link href="site_libs/quarto-html/tippy.css" rel="stylesheet">
+<link href="site_libs/quarto-html/quarto-syntax-highlighting-587c61ba64f3a5504c4d52d930310e48.css" rel="stylesheet" id="quarto-text-highlighting-styles">
+<script src="site_libs/bootstrap/bootstrap.min.js"></script>
+<link href="site_libs/bootstrap/bootstrap-icons.css" rel="stylesheet">
+<link href="site_libs/bootstrap/bootstrap-5348f60334dd04cbc36623d8010fff4a.min.css" rel="stylesheet" append-hash="true" id="quarto-bootstrap" data-mode="light">
 <script id="quarto-search-options" type="application/json">{
   "location": "navbar",
   "copy-button": false,
@@ -70,14 +70,71 @@ ul.task-list li input[type="checkbox"] {
     "search-label": "Search"
   }
 }</script>
+<script>
 
+  window.document.addEventListener("DOMContentLoaded", function (_event) {
+    const listingTargetEl = window.document.querySelector('#listing-listing .list');
+    if (!listingTargetEl) {
+      // No listing discovered, do not attach.
+      return; 
+    }
 
-<link rel="stylesheet" href="../styles.css">
-<meta name="twitter:title" content="Bryan Galligan, S.J., on faith, solidarity, white saviorism, and justice – Bryan P. Galligan, S.J.">
-<meta name="twitter:description" content="Surf &amp; Turf: A Seafood Justice Podcast">
-<meta name="twitter:image" content="media-files/surf-turf.jpeg">
+    const options = {
+      valueNames: ['listing-date','listing-title','listing-author','listing-subtitle','listing-image','listing-description',{ data: ['index'] },{ data: ['categories'] },{ data: ['listing-date-sort'] },{ data: ['listing-file-modified-sort'] }],
+      
+      searchColumns: ["listing-date","listing-title","listing-author","listing-subtitle","listing-image","listing-description"],
+    };
+
+    window['quarto-listings'] = window['quarto-listings'] || {};
+    window['quarto-listings']['listing-listing'] = new List('listing-listing', options);
+
+    if (window['quarto-listing-loaded']) {
+      window['quarto-listing-loaded']();
+    }
+  });
+
+  window.addEventListener('hashchange',() => {
+    if (window['quarto-listing-loaded']) {
+      window['quarto-listing-loaded']();
+    }
+  })
+  </script>
+
+  <script src="https://cdnjs.cloudflare.com/polyfill/v3/polyfill.min.js?features=es6"></script>
+  <script src="https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-chtml-full.js" type="text/javascript"></script>
+
+<script type="text/javascript">
+const typesetMath = (el) => {
+  if (window.MathJax) {
+    // MathJax Typeset
+    window.MathJax.typeset([el]);
+  } else if (window.katex) {
+    // KaTeX Render
+    var mathElements = el.getElementsByClassName("math");
+    var macros = [];
+    for (var i = 0; i < mathElements.length; i++) {
+      var texText = mathElements[i].firstChild;
+      if (mathElements[i].tagName == "SPAN" && texText && texText.data) {
+        window.katex.render(texText.data, mathElements[i], {
+          displayMode: mathElements[i].classList.contains('display'),
+          throwOnError: false,
+          macros: macros,
+          fleqn: false
+        });
+      }
+    }
+  }
+}
+window.Quarto = {
+  typesetMath
+};
+</script>
+
+<link rel="stylesheet" href="styles.css">
+<meta name="twitter:title" content="Opinion and Analysis – Bryan P. Galligan, S.J.">
+<meta name="twitter:description" content="">
 <meta name="twitter:site" content="@galligan_sj">
-<meta name="twitter:card" content="summary_large_image">
+<meta name="twitter:card" content="summary">
 </head>
 
 <body class="nav-fixed fullcontent quarto-light">
@@ -87,7 +144,7 @@ ul.task-list li input[type="checkbox"] {
     <nav class="navbar navbar-expand-lg " data-bs-theme="dark">
       <div class="navbar-container container-fluid">
       <div class="navbar-brand-container mx-auto">
-    <a class="navbar-brand" href="../index.html">
+    <a class="navbar-brand" href="./index.html">
     <span class="navbar-title">Bryan P. Galligan, S.J.</span>
     </a>
   </div>
@@ -98,19 +155,19 @@ ul.task-list li input[type="checkbox"] {
           <div class="collapse navbar-collapse" id="navbarCollapse">
             <ul class="navbar-nav navbar-nav-scroll ms-auto">
   <li class="nav-item">
-    <a class="nav-link" href="../index.html"> 
+    <a class="nav-link" href="./index.html"> 
 <span class="menu-text">Home</span></a>
   </li>  
   <li class="nav-item">
-    <a class="nav-link" href="../publications.html"> 
+    <a class="nav-link" href="./publications.html"> 
 <span class="menu-text">Scholarship</span></a>
   </li>  
   <li class="nav-item">
-    <a class="nav-link" href="../opinion.html"> 
+    <a class="nav-link active" href="./opinion.html" aria-current="page"> 
 <span class="menu-text">Opinion</span></a>
   </li>  
   <li class="nav-item">
-    <a class="nav-link" href="../media.html"> 
+    <a class="nav-link" href="./media.html"> 
 <span class="menu-text">Media</span></a>
   </li>  
 </ul>
@@ -130,27 +187,14 @@ ul.task-list li input[type="checkbox"] {
 
 <header id="title-block-header" class="quarto-title-block default">
 <div class="quarto-title">
-<h1 class="title">Bryan Galligan, S.J., on faith, solidarity, white saviorism, and justice</h1>
-<p class="subtitle lead">Surf &amp; Turf: A Seafood Justice Podcast</p>
+<h1 class="title">Opinion and Analysis</h1>
 </div>
 
 
 
 <div class="quarto-title-meta">
 
-    <div>
-    <div class="quarto-title-meta-heading">Author</div>
-    <div class="quarto-title-meta-contents">
-             <p>Caroline Ferguson </p>
-          </div>
-  </div>
     
-    <div>
-    <div class="quarto-title-meta-heading">Published</div>
-    <div class="quarto-title-meta-contents">
-      <p class="date">June 4, 2023</p>
-    </div>
-  </div>
   
     
   </div>
@@ -160,13 +204,212 @@ ul.task-list li input[type="checkbox"] {
 </header>
 
 
-<p><img src="media-files/surf-turf.jpeg" class="img-fluid"></p>
-<p>For this very special bonus episode, I am joined by Jesuit scholastic Bryan Galligan to discuss how his Catholic faith motivates his work in nutritional and social justice, how to move in solidarity while supporting community leadership and avoiding the pitfalls of white saviorism, and what faith traditions have to offer to the fight for seafood justice.</p>
-<p>Listen to the full episode <a href="https://open.spotify.com/episode/2wsCg4Vh8kHc53eHW2dZeo?si=CgxPiwycRS2mZgPJQNJhRA">here</a>.</p>
+<p>In addition to my scholarly research, I sometimes write for a more popular audience. This page serves as a home for that work.</p>
 
 
 
-</main> <!-- /main -->
+
+<div class="quarto-listing quarto-listing-container-default" id="listing-listing">
+<div class="list quarto-listing-default">
+<div class="quarto-post image-right" data-index="0" data-listing-date-sort="1696564800000" data-listing-file-modified-sort="1767498470142" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="1" data-listing-word-count-sort="160">
+<div class="thumbnail"><a href="./opinion/laudate-deum.html" class="no-external">
+
+<p class="card-img-top"><img src="opinion/opinion-files/laudate-deum.jpeg"  class="thumbnail-image card-img"/></p>
+
+</a></div>
+<div class="body">
+<h3 class="no-anchor listing-title">
+<a href="./opinion/laudate-deum.html" class="no-external">A backgrounder on Laudate Deum and what it means for COP28</a>
+</h3>
+<div class="listing-subtitle">
+<a href="./opinion/laudate-deum.html" class="no-external">Ecojesuit</a>
+</div>
+<div class="delink listing-description"><a href="./opinion/laudate-deum.html" class="no-external">
+On October 4, 2023, just two months before UNFCCC COP28, Pope Francis released a new pastoral document addressing the climate crisis. This document, <em>Laudate Deum</em>, is…<em></em><em></em>
+</a></div>
+</div>
+<div class="metadata">
+<a href="./opinion/laudate-deum.html" class="no-external">
+<div class="listing-date">
+Oct 6, 2023
+</div>
+<div class="listing-author">
+Bryan P. Galligan, S.J.
+</div>
+</a>
+</div>
+</div>
+<div class="quarto-post image-right" data-index="1" data-listing-date-sort="1657512000000" data-listing-file-modified-sort="1767497487169" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="2" data-listing-word-count-sort="336">
+<div class="thumbnail"><a href="./opinion/sudan.html" class="no-external">
+
+<p class="card-img-top"><img src="opinion/opinion-files/sudan.jpeg"  class="thumbnail-image card-img"/></p>
+
+</a></div>
+<div class="body">
+<h3 class="no-anchor listing-title">
+<a href="./opinion/sudan.html" class="no-external">War, drought, flood: The many challenges facing South Sudan</a>
+</h3>
+<div class="listing-subtitle">
+<a href="./opinion/sudan.html" class="no-external">Commonweal</a>
+</div>
+<div class="delink listing-description"><a href="./opinion/sudan.html" class="no-external">
+Before a leg injury forced him to postpone travel, Pope Francis was scheduled to make an ecumenical “pilgrimage of peace” to South Sudan. He would have been joined by…
+</a></div>
+</div>
+<div class="metadata">
+<a href="./opinion/sudan.html" class="no-external">
+<div class="listing-date">
+Jul 11, 2022
+</div>
+<div class="listing-author">
+Bryan P. Galligan, S.J.
+</div>
+</a>
+</div>
+</div>
+<div class="quarto-post image-right" data-index="2" data-listing-date-sort="1639544400000" data-listing-file-modified-sort="1767496694260" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="2" data-listing-word-count-sort="269">
+<div class="thumbnail"><a href="./opinion/taking-sides.html" class="no-external">
+
+<p class="card-img-top"><img src="opinion/opinion-files/taking-sides.png"  class="thumbnail-image card-img"/></p>
+
+</a></div>
+<div class="body">
+<h3 class="no-anchor listing-title">
+<a href="./opinion/taking-sides.html" class="no-external">Providing access or taking sides? Blue growth, small-scale fisheries, and the case of Lamu, Kenya</a>
+</h3>
+<div class="listing-subtitle">
+<a href="./opinion/taking-sides.html" class="no-external">Promotio Iustitiae</a>
+</div>
+<div class="delink listing-description"><a href="./opinion/taking-sides.html" class="no-external">
+People will stand fishing beside the sea…it will be a place for the spreading of nets; its fish will be of a great many kinds, like the fish of the Great Sea (Ezek. 47:10).
+</a></div>
+</div>
+<div class="metadata">
+<a href="./opinion/taking-sides.html" class="no-external">
+<div class="listing-date">
+Dec 15, 2021
+</div>
+<div class="listing-author">
+Bryan P. Galligan, S.J. and Sasha Kinney
+</div>
+</a>
+</div>
+</div>
+<div class="quarto-post image-right" data-index="3" data-listing-date-sort="1630209600000" data-listing-file-modified-sort="1767500004802" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="1" data-listing-word-count-sort="125">
+<div class="thumbnail"><a href="./opinion/troubled-waters.html" class="no-external">
+
+<p class="card-img-top"><img src="opinion/opinion-files/troubled-waters.jpg"  class="thumbnail-image card-img"/></p>
+
+</a></div>
+<div class="body">
+<h3 class="no-anchor listing-title">
+<a href="./opinion/troubled-waters.html" class="no-external">Troubled Waters</a>
+</h3>
+<div class="listing-subtitle">
+<a href="./opinion/troubled-waters.html" class="no-external">Commonweal</a>
+</div>
+<div class="delink listing-description"><a href="./opinion/troubled-waters.html" class="no-external">
+Coral reefs are special places. They can enchant, inspiring tourists and scientists to travel hundreds, even thousands of miles for just a few moments of underwater bliss.…<em></em>
+</a></div>
+</div>
+<div class="metadata">
+<a href="./opinion/troubled-waters.html" class="no-external">
+<div class="listing-date">
+Aug 29, 2021
+</div>
+<div class="listing-author">
+Bryan P. Galligan, S.J.
+</div>
+</a>
+</div>
+</div>
+<div class="quarto-post image-right" data-index="4" data-listing-date-sort="1617940800000" data-listing-file-modified-sort="1767498188462" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="1" data-listing-word-count-sort="112">
+<div class="thumbnail"><a href="./opinion/seaspiracy.html" class="no-external">
+
+<p class="card-img-top"><img src="opinion/opinion-files/seaspiracy.jpg"  class="thumbnail-image card-img"/></p>
+
+</a></div>
+<div class="body">
+<h3 class="no-anchor listing-title">
+<a href="./opinion/seaspiracy.html" class="no-external">Fact-checking Netflix’s ‘Seaspiracy’</a>
+</h3>
+<div class="listing-subtitle">
+<a href="./opinion/seaspiracy.html" class="no-external">The Jesuit Post</a>
+</div>
+<div class="delink listing-description"><a href="./opinion/seaspiracy.html" class="no-external">
+<em>Seaspiracy</em>, the new documentary about global fisheries, has performed remarkably well on review aggregating websites and Netflix’s Top 10 list. Its reception among ocean…
+</a></div>
+</div>
+<div class="metadata">
+<a href="./opinion/seaspiracy.html" class="no-external">
+<div class="listing-date">
+Apr 9, 2021
+</div>
+<div class="listing-author">
+Bryan P. Galligan, S.J.
+</div>
+</a>
+</div>
+</div>
+<div class="quarto-post image-right" data-index="5" data-listing-date-sort="1604379600000" data-listing-file-modified-sort="1767497230578" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="2" data-listing-word-count-sort="284">
+<div class="thumbnail"><a href="./opinion/genocide.html" class="no-external">
+
+<p class="card-img-top"><img src="opinion/opinion-files/genocide.jpg"  class="thumbnail-image card-img"/></p>
+
+</a></div>
+<div class="body">
+<h3 class="no-anchor listing-title">
+<a href="./opinion/genocide.html" class="no-external">Ecological genocide in the Amazon: Raphael Lemkin and the destruction of human groups</a>
+</h3>
+<div class="listing-subtitle">
+<a href="./opinion/genocide.html" class="no-external">Ethics &amp; International Affairs</a>
+</div>
+<div class="delink listing-description"><a href="./opinion/genocide.html" class="no-external">
+For most people, the word “genocide” likely evokes mental images of concentration camps, killing fields, and mass graves. Deforestation, no matter how severe, would seem to…
+</a></div>
+</div>
+<div class="metadata">
+<a href="./opinion/genocide.html" class="no-external">
+<div class="listing-date">
+Nov 3, 2020
+</div>
+<div class="listing-author">
+Bryan P. Galligan, S.J.
+</div>
+</a>
+</div>
+</div>
+<div class="quarto-post image-right" data-index="6" data-listing-date-sort="1601956800000" data-listing-file-modified-sort="1767497682669" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="2" data-listing-word-count-sort="225">
+<div class="thumbnail"><a href="./opinion/amazon.html" class="no-external">
+
+<p class="card-img-top"><img src="opinion/opinion-files/amazon.jpg"  class="thumbnail-image card-img"/></p>
+
+</a></div>
+<div class="body">
+<h3 class="no-anchor listing-title">
+<a href="./opinion/amazon.html" class="no-external">Teetering on the edge: The crisis in Amazonia</a>
+</h3>
+<div class="listing-subtitle">
+<a href="./opinion/amazon.html" class="no-external">Commonweal</a>
+</div>
+<div class="delink listing-description"><a href="./opinion/amazon.html" class="no-external">
+The Amazon Synod’s final document and Pope Francis’s post-synodal exhortation <em>Querida Amazonia</em> both describe a social and environmental crisis of historic proportions, a…<em></em>
+</a></div>
+</div>
+<div class="metadata">
+<a href="./opinion/amazon.html" class="no-external">
+<div class="listing-date">
+Oct 6, 2020
+</div>
+<div class="listing-author">
+Bryan P. Galligan, S.J.
+</div>
+</a>
+</div>
+</div>
+</div>
+<div class="listing-no-matching d-none">No matching items</div>
+</div></main> <!-- /main -->
 <script id="quarto-html-after-body" type="application/javascript">
   window.document.addEventListener("DOMContentLoaded", function (event) {
     const icon = "";

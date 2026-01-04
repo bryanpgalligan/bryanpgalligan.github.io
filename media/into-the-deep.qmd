@@ -1,5 +1,5 @@
 ---
-title: "Into the Deep: A Jesuit Vocation Story"
+title: "Into the deep: A Jesuit vocation story"
 subtitle: "Jesuit Conference of Canada and the United States"
 author: "Eric Clayton"
 date: "7/7/2023"
