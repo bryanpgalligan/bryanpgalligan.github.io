@@ -1,6 +1,7 @@
 project:
   type: website
   output-dir: docs
+  post-render: encrypt.r
 
 website:
   title: "Bryan P. Galligan, S.J."
@@ -14,6 +15,9 @@ website:
         text: Opinion
       - href: media.qmd
         text: Media
+
+resources:
+  - matrimony/
 
 format:
   html:
