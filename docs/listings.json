@@ -1,19 +1,16 @@
 [
   {
-    "listing": "/opinion.html",
+    "listing": "/publications.html",
     "items": [
-      "/opinion/laudate-deum.html",
-      "/opinion/sudan.html",
-      "/opinion/taking-sides.html",
-      "/opinion/troubled-waters.html",
-      "/opinion/seaspiracy.html",
-      "/opinion/genocide.html",
-      "/opinion/amazon.html"
+      "/publications/wfl-fyke-catchability.html",
+      "/publications/nutrient-yields-wio.html",
+      "/publications/sp-fishes.html"
     ]
   },
   {
     "listing": "/media.html",
     "items": [
+      "/media/pathway-to-priesthood.html",
       "/media/iess.html",
       "/media/nutrient-yields-wio.html",
       "/media/red-list.html",
@@ -25,11 +22,15 @@
     ]
   },
   {
-    "listing": "/publications.html",
+    "listing": "/opinion.html",
     "items": [
-      "/publications/wfl-fyke-catchability.html",
-      "/publications/nutrient-yields-wio.html",
-      "/publications/sp-fishes.html"
+      "/opinion/laudate-deum.html",
+      "/opinion/sudan.html",
+      "/opinion/taking-sides.html",
+      "/opinion/troubled-waters.html",
+      "/opinion/seaspiracy.html",
+      "/opinion/genocide.html",
+      "/opinion/amazon.html"
     ]
   }
 ]
