@@ -21,7 +21,7 @@ csl: data-files/apa.csl
 citation-location: margin
 ---
 
-Welcome! I am a Jesuit deacon and marine scientist working at the intersection of fisheries science and public health nutrition. The core goal of my work is to help small-scale fisheries provide sufficient, nutritious food to coastal communities in the Global South. Since 2021, I have been largely focused on coral reef ecosystems and food systems, particularly in East Africa and the Western Indian Ocean. My methods often include the use of catch monitoring data, remotely sensed environmental variables, and statistical modeling to understand the nutritional quality of fish catches. I have also worked on commercial fisheries in the northeastern United States, and I periodically write about questions of equity in ocean governance.
+Welcome! I am a Jesuit priest and marine scientist working at the intersection of fisheries science and public health nutrition. The core goal of my work is to help small-scale fisheries provide sufficient, nutritious food to coastal communities in the Global South. My work is largely focused on coral reef fisheries, particularly in East Africa and the Western Indian Ocean, where I use catch monitoring data, remotely sensed environmental variables, and statistical modeling to understand the nutritional quality of fish catches. I have also worked on commercial fisheries in the northeastern United States, and I periodically write about questions of equity in ocean governance.
 
 ## Education
 
